@@ -1,0 +1,2 @@
+﻿l_russian:
+ tradition_female_only_inheritance_requirements:0 "У вас должно быть [GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName] [Concept('faith','веры')|E] или #V $heritage_aegean_name$#! [Concept('heritage','наследие')|E]"

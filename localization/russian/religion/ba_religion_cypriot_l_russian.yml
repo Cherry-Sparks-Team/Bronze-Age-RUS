@@ -1,0 +1,82 @@
+﻿l_russian:
+ cypriot_religion:0 "Аласиянск"
+ cypriot_religion_adj:0 "Аласиянское язычество"
+ cypriot_religion_adherent:0 "Аласиянин"
+ cypriot_religion_adherent_plural:0 "Аласияны"
+ cypriot_religion_desc:0 "WIP."
+ 
+ cypriot_faith:0 "Аласиянск"
+ cypriot_faith_adj:0 "Аласиянское язычество"
+ cypriot_faith_adherent:0 "Аласиянин"
+ cypriot_faith_adherent_plural:0 "Аласияны"
+ cypriot_faith_desc:0 "WIP."
+ 
+ cypriot_high_god_name:0 "Астарта" #Goddess of Love and War
+ cypriot_high_god_name_2:0 "$cypriot_high_god_name$"
+ cypriot_high_god_name_possessive:0 "Астарты"
+ cypriot_high_god_name_alternate:0 "Царица небесная"
+ cypriot_high_god_name_alternate_possessive:0 "Царицы небесной"
+ cypriot_devil_name:0 "Молек" #God of Fire and (Human) Sacrifice
+ cypriot_devil_name_possessive:0 "Молека"
+ cypriot_death_deity_name:0 "Мот" #God of death and ruler of Mot, the land of the Dead
+ cypriot_death_deity_name_possessive:0 "Мота"
+ cypriot_divine_realm:0 "Шамаим" #Heaven
+ cypriot_divine_realm_2:0 "$cypriot_divine_realm$"
+ cypriot_divine_realm_3:0 "$cypriot_divine_realm$"
+ cypriot_positive_afterlife:0 "Мот" #The dead go to Mot no matter what
+ cypriot_positive_afterlife_2:0 "$cypriot_positive_afterlife$"
+ cypriot_positive_afterlife_3:0 "$cypriot_positive_afterlife$"
+ cypriot_negative_afterlife:0 "Мот"
+ cypriot_negative_afterlife_2:0 "$cypriot_negative_afterlife$"
+ cypriot_negative_afterlife_3:0 "$cypriot_negative_afterlife$"
+ cypriot_religious_symbol:0 "лев" #Astarte, Ishtar, and Aphrodite associated with lions
+ cypriot_religious_symbol_2:0 "$cypriot_religious_symbol$"
+ cypriot_religious_symbol_3:0 "$cypriot_religious_symbol$"
+ cypriot_religious_text:0 "Цикл Баала" #Primary Myth
+ cypriot_religious_text_2:0 "$canaanite_religious_text$"
+ cypriot_religious_text_3:0 "$canaanite_religious_text$"
+ cypriot_pantheon:0 "Элохим" #The Gods
+ cypriot_pantheon_2:0 "$cypriot_pantheon$"
+ cypriot_pantheon_3:0 "$cypriot_pantheon$"
+
+ cypriot_good_god_baal:0 "Хадад" #God of Rain and Storms
+ cypriot_good_god_shahar:0 "Шахар" #God of Dawn and the Morning Star, brother of Shalim
+ cypriot_good_god_shalim:0 "Шалим" #God of Dusk and the Evening Star, brother of Shahar
+ cypriot_evil_god_kotharat:0 "Котарат" #Seven goddesses of Marriage and Pregnancy
+ cypriot_evil_god_lotan:0 "Лотан" #Evil Sea Serpent, works for Yam, slain by Ba'al
+ cypriot_evil_god_resheph:0 "Решеф" #God of Plague and War
+ 
+ cypriot_creator_god_name:0 "Эл" #Creator god
+ cypriot_creator_god_name_possessive:0 "Эла"
+ cypriot_health_god_name:0 "Шапаш" #Goddess of the Sun, associated with healing
+ cypriot_health_god_name_possessive:0 "Шапаша"
+ cypriot_fertility_god_name:0 "Адон" #God of Agricultural Fertility and the seasons, consort of Astarte
+ cypriot_fertility_god_name_possessive:0 "Адона"
+ cypriot_wealth_god_name:0 "Котар-ва-Хасис" #Divine Craftsman
+ cypriot_wealth_god_name_possessive:0 "Котар-ва-Хасиса'"
+ cypriot_household_god_name:0 "Ашера" #Mother Goddess, often prayed to for protection from evil spirits
+ cypriot_household_god_name_possessive:0 "Ашеры"
+ cypriot_fate_god_name:0 "Ашима" #Goddess of Fate
+ cypriot_fate_god_name_possessive:0 "Ашимы"
+ cypriot_knowledge_god_name:0 "Таавтус" #God of Knowledge and writing
+ cypriot_knowledge_god_name_possessive:0 "Таавтуса'"
+ cypriot_war_god_name:0 "Анат" #Goddess of War and the Hunt
+ cypriot_war_god_name_possessive:0 "Аната"
+ cypriot_trickster_god_name:0 "Гад" #God, or perhaps Goddess of Luck
+ cypriot_trickster_god_name_possessive:0 "Гада"
+ cypriot_night_god_name:0 "Йарих" #God of the Moon
+ cypriot_night_god_name_possessive:0 "Йариха"
+ cypriot_water_god_name:0 "Яам" #God of the Sea
+ cypriot_water_god_name_possessive:0 "Яама"
+ cypriot_witch_god_name:0 "Горон" #Tuletary God of Gaza, asscociated with magic and curses
+ cypriot_witch_god_name_possessive:0 "Горона"
+ 
+ cypriot_sun_god_name:0 "Шапаш"
+ cypriot_sun_god_name_possessive:0 "Шапаши"
+
+ cypriot_religious_head:0 "Верховный жрец"
+ cypriot_religious_head_title_name:0 "Верховный совет"
+ 
+ d_cult_of_astarte:0 "Верховное жречество Астарты"
+ d_cult_of_astarte_adj:0 "Астартск"
+ 

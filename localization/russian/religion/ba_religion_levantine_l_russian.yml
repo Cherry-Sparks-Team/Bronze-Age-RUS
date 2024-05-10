@@ -1,0 +1,220 @@
+﻿l_russian:
+
+ levantine_religion:0 "Левантийск"
+ levantine_religion_adj:0 "Левантийское язычество"
+ levantine_religion_adherent:0 "Левантиец"
+ levantine_religion_adherent_plural:0 "Левантийцы"
+ levantine_religion_desc:0 "В Леванте столько же богов, сколько городов-государств. И часто одни и те же боги почитались во многих городах-государствах и племенах региона. Однако со временем многие города начали почитать определенных богов, придавая им большее значение, чем другим богам, выбирая этих богов в качестве покровителей и защитников своего города или племени. Из-за местного покровительства этим богам получилось так, что в разных городах могли существовать разные проявления одного и того же бога. Например, культ бога Ваала существовал во многих городах, но имел другое название (часто топоним) и специфику в зависимости от местоположения или потребностей города. Со временем можно было бы сказать, что левантийская религия превратилась из политеистической в более монолатристическую. Одной из особенностей левантийской религии, обнаруживаемой во многих местных вариациях, было существование бога-творца по имени Эль (в некоторых случаях его называли Даган). Эль считался выше других богов и был их отцом и создателем мира. Другим аспектом левантийской религии было то, что последователи часто лично заключали соглашение со своими богами, чтобы заручиться их благосклонностью. Взамен боги помогали им такими вещами, как плодородие, доблесть в бою или хороший урожай."
+ 
+ canaanite_faith:0 "Ханаанск"
+ canaanite_faith_adj:0 "Ханаанское язычество"
+ canaanite_faith_adherent:0 "Ханаанец"
+ canaanite_faith_adherent_plural:0 "Ханаанцы"
+ canaanite_faith_desc:0 "В ханаанской религии поклоняются великому множеству богов. Каждый город-государство или племя также выбирает божество-покровителя, которое представляет эти города-государства и племена как единое целое. Например, бог Баал (что означает "владыка" или "повелитель всего") имел множество вариаций, ему всегда поклонялись как Ваалу, но считалось, что у него были местные версии (это могло относиться и к другим богам). Однако в основном его считали божеством грозы и плодородия сельского хозяйства. Это объясняется тем, что в ханаанских мифах история из цикла о Ваале объясняет климат Леванта. Обычно Баал, как бог грозы, вызывает дождь, делая засушливые районы Леванта гостеприимными и даря земле жизнь. Но когда в истории Мот (бог смерти и подземного мира) убивает Ваала, дождь не идет, а засуха вызывает голод. После смерти Баала его жена или партнерша Анат (богиня войны и охоты) мстит Моту. Она нападает на Мота, сжигает его, а затем измельчает в порошок и развеивает его пепел повсюду. Тем временем Баал вернулся в мир, и все радуются, потому что на землю вернулся дождь. Позже, когда Мот тоже вернулся, он пошел жаловаться главному богу Элу. Эл, однако, встал на сторону Ваала, поэтому Мот боится дальнейших репрессий против Ваала и выжидает подходящего момента."
+ 
+ amorite_faith:0 "Аморитск"
+ amorite_faith_adj:0 "Аморитское язычество"
+ amorite_faith_adherent:0 "Аморит"
+ amorite_faith_adherent_plural:0 "Амориты"
+ amorite_faith_desc:0 "Поскольку вера амореев находится на стыке востока и запада, у нее много общего с соседними религиями. Многие боги, которым поклонялись в пантеоне амореев, также присутствуют в месопотамской, хурритской и ханаанской религиях. В одной истории, которая называется "Женитьба Марту", бог Марту (персонифицированный бог народа амморитов) "вступает в брак" с месопотамским пантеоном. Возможно, эта история служит объяснением того, почему в пантеоне религии амморитов много синкретизированных месопотамских божеств. Но, кроме того, в пантеоне мы находим множество ханаанских/эблаитских и хурритских богов. Даган, отец богов, и Хадад/Баал/Тешуб (бог бури и погоды) также известны. Иногда как отдельные существа, иногда как синкретизированные версии одного и того же бога. Однако это одни из наиболее достоверных свидетельств, поскольку практически не найдено свидетельств о конкретной религии амморитов, которая полностью стоит сама по себе. Аммориты переселились в регион Верхней Месопотамии и Сирии как кочевники начиная с 3-го тысячелетия до нашей эры, и поэтому вполне возможно, что они приняли более организованную форму своей религии, основанную на существующих местных ханаанских, хурритских и месопотамских традициях. Однако религия амморитов со временем превратилась в их собственную религию, которая представлена в игре как амморитская. Потому что к началу игры, примерно во 2-м тысячелетии до нашей эры, уже существовали могущественные города-государства амморитов, которые имели свои собственные религиозные обряды и традиции."
+ 
+ eblaite_faith:0 "Эблаитск"
+ eblaite_faith_adj:0 "Эблаитское язычество"
+ eblaite_faith_adherent:0 "Эблаит"
+ eblaite_faith_adherent_plural:0 "Эблаиты"
+ eblaite_faith_desc:0 "Религия эблаитов, сосредоточенная вокруг города Эбла, имела огромное значение для управления государством. Хотя, в отличие от Египта или Месопотамии, правитель этого государства, по сути, светский. Правитель действительно выполняет жреческие функции, но не является представителем бога на земле. Принятие важных решений часто сопровождалось принесением клятвы богу. Например, давая клятву править государством как можно лучше, человек призывает имя Ишары (богини клятв, любви, предсказаний и покровительницы Эблы). Другим важным богом был Даган. Даган был архетипическим "отцом богов" и фигурой творца. Из-за этой веры ему было легче смириться с существованием богов других религий (потому что все они были его потомками), его иногда ассоциируют с ханаанским Эль. Вера эблаитов во многом повлияла и продолжает влиять на другие местные религии. Это проявляется в почитании многих сходных богов, разделяемых хурритами, ханаанеями, амореями и даже месопотамцами. Хадад (или Адададад) был одним из этих богов. Он был богом погоды, бурь, грома и дождя. В ханаанской религии его звали бы Баал, в хурритской - Тешуб, и обычно считалось, что все они были существующими божествами, потому что они сыновья бога-творца (бога над богами) по имени Даган."
+ 
+ phoenician_faith:0 "Финикийск"
+ phoenician_faith_adj:0 "Финикийское язычество"
+ phoenician_faith_adherent:0 "Финикиец"
+ phoenician_faith_adherent_plural:0 "Финикийцы"
+ phoenician_faith_desc:0 "Религиозные верования и традиции финикийцев в целом были очень похожи на верования их соседей в Ханаане. Но со временем они сформировались в отдельную религию. Поскольку в ханаанской религии существует большое количество богов, в зависимости от региона, некоторым из них будет придаваться большее значение, чем другим божествам, или они будут незначительно отличаться друг от друга по своему набору. Важное значение для морских торговых городов-государств Финикии имел бог Баал (или Хадад). Для многих ханаанеев Баал был богом штормов и плодородия сельского хозяйства (потому что Баал вызывает дождь). Но в Финикии он также был богом-покровителем моряков, поскольку шторм мог повлиять на безопасность морской торговли. Подобно своим соседям-ханаанеям, каждый из финикийских городов-государств высоко ценил одного бога, поскольку этот бог был божеством-покровителем города-государства и представлял его как единое целое. Жрецы и последователи приносили клятвы и заключали соглашения с этими божествами, чтобы заручиться их благосклонностью в трудные времена. Так торговец молился бы Ваалу о ясном и спокойном небе и клялся бы отдавать ему часть своей прибыли, если бы ему было даровано это благословение. Ханаанские боги, должно быть, благоволили финикийским городам-государствам, поскольку их существование будет отражаться на протяжении всей истории."
+ 
+ aramean_faith:0 "Арамейск"
+ aramean_faith_adj:0 "Арамейское язычество"
+ aramean_faith_adherent:0 "Арамей"
+ aramean_faith_adherent_plural:0 "Арамеи"
+ aramean_faith_desc:0 "WIP."
+ 
+ hyksos_faith:0 "Гиксоск"
+ hyksos_faith_adj:0 "Гиксоское язычество"
+ hyksos_faith_adherent:0 "Гиксос"
+ hyksos_faith_adherent_plural:0 "Гиксосы"
+ hyksos_faith_desc:0 "В то время как все религиозные пантеоны, граничившие с Египтом, обменивались божествами и концепциями с жителями Нила, ни один из них не воплощал этот синкретизм в большей степени, чем система верований гиксосов. Эти чужеземцы-ханаанцы-семиты оказались искусными в интеграции своих ханаанских божеств, таких как Баал, Решеф и Астарта, в местный пантеон кеметических фигур. Баал стал олицетворять Сета, в то время как кеметские боги, такие как Ра, Себек и Хатхор, вновь стали играть важную роль в жизни "Правителей чужих земель". Гиксосы по-прежнему отличаются от своих соседей-кеметийцев в том, что касается погребальных обрядов. Они переняли ханаанейский обычай хоронить своих умерших под домами живых, обычно в позе эмбриона, в сопровождении животных, таких как лошади и ослы. Гиксосские правители изображают себя в одежде традиционного египетского правителя, но с добавлением дизайна в виде поднятой дубины в стиле, традиционно ассоциирующемся с поклонением Баалу."
+ 
+ yahwism:0 "Яхвистск"
+ yahwism_adj:0 "Яхвистская вера"
+ yahwism_adherent:0 "Яхвист"
+ yahwism_adherent_plural:0 "Яхвисты"
+ yahwism_desc:0 "WIP."
+ 
+ canaanite_high_god_name:0 "Баал-Хадад" #Canaanite Creator god, later supplanted by Ba'al
+ canaanite_high_god_name_2:0 "$canaanite_high_god_name$"
+ canaanite_high_god_name_possessive:0 "Баал-Хадада"
+ canaanite_high_god_name_alternate:0 "Владыка небес"
+ canaanite_high_god_name_alternate_possessive:0 "Владыки небес"
+ canaanite_devil_name:0 "Молек" #God of Fire and (Human) Sacrifice
+ canaanite_devil_name_possessive:0 "Молека"
+ canaanite_death_deity_name:0 "Мот" #God of death and ruler of Mot, the land of the Dead
+ canaanite_death_deity_name_possessive:0 "Мота"
+ canaanite_divine_realm:0 "Шамаим" #Heaven
+ canaanite_divine_realm_2:0 "$canaanite_divine_realm$"
+ canaanite_divine_realm_3:0 "$canaanite_divine_realm$"
+ canaanite_positive_afterlife:0 "Мот" #The dead go to Mot no matter what
+ canaanite_positive_afterlife_2:0 "$canaanite_positive_afterlife$"
+ canaanite_positive_afterlife_3:0 "$canaanite_positive_afterlife$"
+ canaanite_negative_afterlife:0 "Мот"
+ canaanite_negative_afterlife_2:0 "$canaanite_negative_afterlife$"
+ canaanite_negative_afterlife_3:0 "$canaanite_negative_afterlife$"
+ canaanite_religious_symbol:0 "громовая стрела" #El and Ba'al were sky/storm deities
+ canaanite_religious_symbol_2:0 "$canaanite_religious_symbol$"
+ canaanite_religious_symbol_3:0 "$canaanite_religious_symbol$"
+ canaanite_religious_text:0 "Цикл Баала" #Primary Myth
+ canaanite_religious_text_2:0 "$canaanite_religious_text$"
+ canaanite_religious_text_3:0 "$canaanite_religious_text$"
+ canaanite_pantheon:0 "Элохим" #The Gods
+ canaanite_pantheon_2:0 "$canaanite_pantheon$"
+ canaanite_pantheon_3:0 "$canaanite_pantheon$"
+ 
+ canaanite_good_god_adon:0 "Адон" #Canaanite form of Tammuz
+ canaanite_good_god_qadesh:0 "Кадеш" #Tutelary god of Qadesh, later Egyptian Qetesh
+ canaanite_good_god_shahar:0 "Шахар" #God of Dawn and the Morning Star, brother of Shalim
+ canaanite_good_god_shalim:0 "Шалим" #God of Dusk and the Evening Star, brother of Shahar
+ canaanite_good_god_yahweh:0 "Яхве" #National god of the Israelites, associated with the sky and war
+ canaanite_good_god_bethel:0 "Вефиль" #Tutelary god of Bethel, associated with fertility and prosperity
+ canaanite_evil_god_kamish:0 "Кемош" #National god of the Moabites, associated with the sun and war
+ canaanite_evil_god_kotharat:0 "Котарат" #Seven goddesses of Marriage and Pregnancy
+ canaanite_evil_god_lotan:0 "Лотан" #Evil Sea Serpent, works for Yam, slain by Ba'al
+ canaanite_evil_god_resheph:0 "Решеф" #God of Plague and War
+ canaanite_evil_god_qaus:0 "Каус" #National god of the Edomites, associated with archery and hunting
+ canaanite_evil_god_milkom:0 "Милком" #National god of the Ammonites, associated with fire and sacrifice
+ 
+ canaanite_creator_god_name:0 "Эль" #Canaanite Creator god, supplanted by his son Ba'al
+ canaanite_creator_god_name_possessive:0 "Эля"
+ canaanite_health_god_name:0 "Шапаш" #Goddess of the Sun, associated with healing
+ canaanite_health_god_name_possessive:0 "Шапаши"
+ canaanite_fertility_god_name:0 "Астарта" #Goddess of Love and War
+ canaanite_fertility_god_name_possessive:0 "Астарты"
+ canaanite_wealth_god_name:0 "Котар-ва-Хасис" #Divine Craftsman
+ canaanite_wealth_god_name_possessive:0 "Котар-ва-Хасиса"
+ canaanite_household_god_name:0 "Ашерах" #Mother Goddess, often prayed to for protection from evil spirits
+ canaanite_household_god_name_possessive:0 "Ашерахы"
+ canaanite_fate_god_name:0 "Ашима" #Goddess of Fate
+ canaanite_fate_god_name_possessive:0 "Ашимы"
+ canaanite_knowledge_god_name:0 "Таавтус" #Canaanite form of Thoth
+ canaanite_knowledge_god_name_possessive:0 "Тааутуса"
+ canaanite_war_god_name:0 "Анат" #Goddess of War and the Hunt
+ canaanite_war_god_name_possessive:0 "Анаты"
+ canaanite_trickster_god_name:0 "Гад" #God, or perhaps Goddess of Luck
+ canaanite_trickster_god_name_possessive:0 "Гада"
+ canaanite_night_god_name:0 "Йарих" #God of the Moon
+ canaanite_night_god_name_possessive:0 "Йариха"
+ canaanite_water_god_name:0 "Ям" #God of the Sea
+ canaanite_water_god_name_possessive:0 "Яма"
+ canaanite_witch_god_name:0 "Горон" #Tuletary God of Gaza, asscociated with magic and curses
+ canaanite_witch_god_name_possessive:0 "Горона"
+ 
+ canaanite_sun_god_name:0 "Шапаш"
+ canaanite_sun_god_name_possessive:0 "Шапаша"
+
+ phoenician_health_god_name:0 "Эшмун"
+ phoenician_health_god_name_possessive:0 "Эшмуна"
+ phoenician_household_god_name:0 "Мелькарт"
+ phoenician_household_god_name_possessive:0 "Мелькарта"
+ phoenician_knowledge_god_name:0 "Баалят Гебаль"
+ phoenician_knowledge_god_name_possessive:0 "Баалята Гебаля"
+ phoenician_good_god_shamash:0 "Шамаш" #Male form of Shapash
+ phoenician_good_god_marqod:0 "Маркод" #God of Dance
+ phoenician_evil_god_rasapmelqart:0 "Расап-Мелькарт" #Syncretic combination of Rasap and Melqart
+ phoenician_evil_god_rasap:0 "Расап" #Phoenician form of Resheph
+ 
+ phoenician_sun_god_name:0 "Шамаш"
+ phoenician_sun_god_name_possessive:0 "Шамаша"
+
+ amorite_fertility_god_name:0 "Дагон" #Syrian Creator god, associated with prosperity and fertility
+ amorite_fertility_god_name_possessive:0 "Дагона"
+ amorite_good_god_hebat:0 "Хебат" #Tuletary goddess of Halab, mother goddess, wife to various storm deities
+ amorite_good_god_mer:0 "Мер" #Tuletary god of Mari, associated with love and fertility
+ amorite_good_god_itur_mer:0 "Итур-Мер" #Deified former ruler of Mari, god of oaths and healing
+ amorite_good_god_attartanat:0 "Аттарт-Анат" #Syncretic Combination of Astarte and Anat, Tuletary mother goddess of Mabbog, later Atargatis
+ amorite_evil_god_attar:0 "Аттар" #Masculine form of Astarte, associated with love and war
+ amorite_evil_god_bol:0 "Бол и Ярхибол" #Tuletary gods of Tadmor, associated with the sky and storms
+ amorite_evil_god_amurru:0 "Амурру" #National god of the Amorites, associated with the wilderness, storms and war
+ 
+ aramean_pantheon:0 "Алахин"  #The Gods
+ aramean_pantheon_2:0 "$aramean_pantheon$"
+ aramean_pantheon_3:0 "$aramean_pantheon$"
+ 
+ eblaite_high_god_name:0 "Кура" #Patron god of Ebla, associated with prosperity
+ eblaite_high_god_name_2:0 "$eblaite_high_god_name$"
+ eblaite_high_god_name_possessive:0 "Куры"
+ eblaite_high_god_name_alternate:0 "повелитель Эблы"
+ eblaite_high_god_name_alternate_possessive:0 "повелителя Эблы"
+ eblaite_creator_god_name:0 "Даган" #Eblaite form of Dagon
+ eblaite_creator_god_name_possessive:0 "Дагана"
+ eblaite_health_god_name:0 "Даму" #Eblaite form of Tammuz
+ eblaite_health_god_name_possessive:0 "Даму"
+ eblaite_fertility_god_name:0 "Хадда" #Eblaite form of Hadad
+ eblaite_fertility_god_name_possessive:0 "Хадда"
+ eblaite_wealth_god_name:0 "Кура"
+ eblaite_wealth_god_name_possessive:0 "Кура"
+ eblaite_household_god_name:0 "Ишара" #Goddess of Love, Fertility and War
+ eblaite_household_god_name_possessive:0 "Ишары"
+ eblaite_fate_god_name:0 "Уту" #Sumerian Sun god
+ eblaite_fate_god_name_possessive:0 "Утуа"
+ eblaite_war_god_name:0 "Расап" #Eblaite form of Resheph
+ eblaite_war_god_name_possessive:0 "Решефа"
+ eblaite_night_god_name:0 "Хадабал" #God of the Moon and Agriculture
+ eblaite_night_god_name_possessive:0 "Хадабала"
+ 
+ eblaite_sun_god_name:0 "Шипиш"
+ eblaite_sun_god_name_possessive:0 "Шипиша"
+ 
+ eblaite_good_god_name_adamma:0 "Адамма" #Fertility goddess
+ eblaite_good_god_shipish:0 "Шипиш" #Eblaite form of Shapash
+ eblaite_good_god_barama:0 "Барама" #Wife of Kura
+ eblaite_good_god_halabatu:0 "Халабату" #Wife of Hadda, Eblaite form of Hebat
+ eblaite_evil_god_ashtapi:0 "Аштапи" #Eblaite form of Hurrian war god Ashabil
+ eblaite_evil_god_name_belatu:0 "Белату" #Eblaite gods with no known portfolio
+ eblaite_evil_god_name_agu:0 "Агу"
+ eblaite_evil_god_name_guladu:0 "Гуладу"
+ eblaite_evil_god_name_dariba:0 "Дариба"
+ 
+ 
+ hyksos_high_god_name:0 "Сет-Хадад"
+ hyksos_high_god_name_2:0 "$hyksos_high_god_name$"
+ hyksos_high_god_name_possessive:0 "Сет-Хадада"
+ hyksos_high_god_name_alternate:0 "Повелитель Красной земли"
+ hyksos_high_god_name_alternate_possessive:0 "Повелителя Красной земли"
+ hyksos_religious_head:0 "Фараон"
+ hyksos_religious_head_title_name:0 "Династия" #Will be re-numbered dynamically via event
+ 
+ yahwism_high_god_name:0 "Яхве"
+ yahwism_high_god_name_2:0 "$yahwism_high_god_name$"
+ yahwism_high_god_name_possessive:0 "Яхве"
+ yahwism_high_god_name_alternate:0 "Бог"
+ yahwism_high_god_name_alternate_possessive:0 "Бога"
+ yahwism_health_god_name:0 "Шамаш" #Male form of Shapash
+ yahwism_health_god_name_possessive:0 "Шамаша"
+ yahwism_wealth_god_name:0 "$yahwism_high_god_name$"
+ yahwism_wealth_god_name_possessive:0 "$yahwism_high_god_name_possessive$"
+ yahwism_knowledge_god_name:0 "$yahwism_high_god_name$"
+ yahwism_knowledge_god_name_possessive:0 "$yahwism_high_god_name_possessive$"
+ 
+ yahwism_sun_god_name:0 "Шамаш"
+ yahwism_sun_god_name_possessive:0 "Шамаша"
+ 
+ d_cult_of_hadad:0 "Верховное жречество Баал-Хадада"
+ d_cult_of_hadad_adj:0 "Хададск"
+ 
+ d_cult_of_kura:0 "Верховное жречество Куры"
+ d_cult_of_kura_adj:0 "Кураск"
+ 
+ k_pharaoh_hyksos:0 "Гиксос"
+ k_pharoah_hyksos_adj:0 "Гиксос"
+ k_pharaoh_hyksos_article:0 ""
+ 
+ d_cult_of_yahweh:0 "Верховное жречество Яхве"
+ d_cult_of_yahweh_adj:0 "Яхвеск"
+ 
+ 

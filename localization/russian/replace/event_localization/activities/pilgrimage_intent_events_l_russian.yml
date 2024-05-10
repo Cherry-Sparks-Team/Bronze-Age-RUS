@@ -1,0 +1,3 @@
+﻿l_english:
+ # You stop to contemplate ancient civilizations
+ pilgrimage_intent.1060.desc.mid.rome:0 "I have come across the crumbling remains of a shrine to the old Proto-Hellenic pantheon. [GetFaithByKey('proto_hellenic_faith').FertilityGodName|U] in all [GetFaithByKey('proto_hellenic_faith').FertilityGodHerHis] beauty smiles at me with a half-cracked mouth, and [GetFaithByKey('proto_hellenic_faith').HighGodNamePossessive] face has been eroded almost beyond recognition."

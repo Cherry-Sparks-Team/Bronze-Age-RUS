@@ -1,0 +1,345 @@
+﻿l_russian:
+    #MESOPOTAMIAN
+    #Assyria
+    holy_site_assur_name:0 "Ашшур" #Ashur - Akkadian and Assyrian
+    holy_site_assur_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_assur_name$)#!"
+    holy_site_nineveh_name:0 "Ниневия" #Ishtar of Nineveh - Assyrian and Babylonian
+    holy_site_nineveh_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_nineveh_name$)#!"
+    holy_site_urbilum_name:0 "Урбилум" #Ishtar of Arbela - Assyrian and Babylonian
+    holy_site_urbilum_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_urbilum_name$)#!"
+    #Akkad/Babylonia
+    holy_site_akkad_name:0 "Аккад" #Ishtar-Annunitum - Akkadian
+    holy_site_akkad_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_akkad_name$)#!"
+    holy_site_babylon_ba_name:0 "Вавилон" #Marduk - Akkadian and Babylonian
+    holy_site_babylon_ba_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_babylon_name$)#!"
+    holy_site_barsipa_name:0 "Борсиппа" #Nabu - Akkadian, Babylonian and Assyrian
+    holy_site_barsipa_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_barsipa_name$)#!"
+    holy_site_nippur_name:0 "Ниппур" #Enlil - Sumerian, Akkadian, Assyrian and Babylonian
+    holy_site_nippur_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_nippur_name$)#!"
+    holy_site_sippar_name:0 "Сиппар" #Shamash/Utu - Sumerian, Akkadian, Assyrian and Babylonian
+    holy_site_sippar_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_sippar_name$)#!"
+    #Sumer
+    holy_site_eridu_name:0 "Эриду" #Enki/Ea - Sumerian, Akkadian, Assyrian and Babylonian
+    holy_site_eridu_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_eridu_name$)#!"
+    holy_site_larsa_name:0 "Ларса" #Utu/Shamash - Sumerian, Akkadian, Assyrian and Babylonian
+    holy_site_larsa_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_larsa_name$)#!"
+    holy_site_ur_name:0 "Ур" #Nanna/Sin - Sumerian, Dilmunite, Akkadian, Assyrian and Babylonian
+    holy_site_ur_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_ur_name$)#!"
+    holy_site_uruk_name:0 "Урук" #An/Anu and Innana/Ishtar - Sumerian, Akkadian, Assyrian and Babylonian
+    holy_site_uruk_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_uruk_name$)#!"
+    #Dilmun and Magan
+    holy_site_dilmun_name:0 "Дильмун" #Inzak and Meskilak - Dilmunite
+    holy_site_dilmun_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_dilmun_name$)#!" 
+    holy_site_failaka_name:0 "Файлака" #Inzak - Dilmunite
+    holy_site_failaka_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_failaka_name$)#!"
+    holy_site_hili_name:0 "Хили" #Capital of Magan, ? - Dilmunite
+    holy_site_hili_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_hili_name$)#!"
+    #Unused
+    #Akkad/Babylonia
+    holy_site_der_name:0 "Деру" #Ishtaran - Sumerian, Akkadian, Assyrian and Babylonian
+    holy_site_der_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_der_name$)#!"
+    holy_site_eshnunna_name:0 "Эшнунна" #Tishpak - Akkadian, Assyrian and Babylonian
+    holy_site_eshnunna_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_eshnunna_name$)#!"
+    holy_site_isin_name:0 "Исин" #Geshtinanna and Gula-Nintinugga - Sumerian and Akkadian
+    holy_site_isin_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_isin_name$)#!"
+    holy_site_kish_name:0 "Киш" #Zababa and Bau - Sumerian, Akkadian, Assyrian and Babylonian
+    holy_site_kish_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_kish_name$)#!"
+    holy_site_kutha_name:0 "Кутха" #Nergal and Ereshkigal - Sumerian, Akkadian, Assyrian and Babylonian
+    holy_site_kutha_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_kutha_name$)#!"
+    #Sumer
+    holy_site_adab_name:0 "Адаб" #Ninhursag - Sumerian
+    holy_site_adab_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_adab_name$)#!"
+    holy_site_badtibira_name:0 "Бад-тибира" #Dumuzid - Sumerian and Akkadian
+    holy_site_badtibira_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_badtibira_name$)#!"
+    holy_site_enegi_name:0 "Энеги" #Ninazu - Sumerian
+    holy_site_enegi_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_enegi_name$)#!"
+    holy_site_girsu_name:0 "Гирсу" #Ninurta-Ningirsu - Sumerian, Akkadian, Assyrian and Babylonian
+    holy_site_girsu_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_girsu_name$)#!"
+    holy_site_lagash_name:0 "Лагаш" #Nanshe - Sumerian
+    holy_site_lagash_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_lagash_name$)#!"
+    holy_site_shuruppak_name:0 "Шуруппак" #Ninlil - Sumerian and Akkadian
+    holy_site_shuruppak_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_shuruppak_name$)#!"
+    holy_site_umma_name:0 "Умма" #Gula and Nisaba - Sumerian
+    holy_site_umma_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_umma_name$)#!"
+    #EGYPTIAN
+    #Lower Egypt
+    holy_site_hutwaret_name:0 "Хат-варет" #Set-Hadad - Hyksos and Lower Egyptian
+    holy_site_hutwaret_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_hutwaret_name$)#!"
+    holy_site_iunu_name:0 "Иуну" #Ra, Atum and the Ennead - Lower and Upper Egyptian, Atenist
+    holy_site_iunu_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_iunu_name$)#!"
+    holy_site_mennefer_name:0 "Мен-нефер" #Ptah and Hathor-Sekhmet - Lower and Upper Egyptian
+    holy_site_mennefer_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_mennefer_name$)#!"
+    holy_site_saqqara_name:0 "Мемфисский некрополь" #Memphite Necropolis, many funerary cults - Lower and Upper Egyptian, Atenist
+    holy_site_saqqara_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_saqqara_name$)#!"
+    #Upper Egypt
+    holy_site_abdju_name:0 "Абджу" #Osiris and Isis - Upper and Lower Egyptian
+    holy_site_abdju_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_abdju_name$)#!"
+    holy_site_akhetaten_name:0 "Ахетатон" #The Aten - Atenist
+    holy_site_akhetaten_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_akhetaten_name$)#!"
+    holy_site_behdet_name:0 "Бехдет" #Horus - Upper and Lower Egyptian
+    holy_site_behdet_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_behdet_name$)#!"
+    holy_site_khmun_name:0 "Кхмун" #Thoth and the Ogdoad - Lower and Upper Egyptian
+    holy_site_khmun_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_khmun_name$)#!"
+    holy_site_nekhen_name:0 "Нехен" #Horus - Lower and Upper Egyptian
+    holy_site_nekhen_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_nekhen_name$)#!"
+    holy_site_waset_name:0 "Васет" #Amun, Mut and Khonsu - Lower and Upper Egyptian, Atenist
+    holy_site_waset_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_waset_name$)#!"
+    #Unused
+    #Lower Egypt
+    holy_site_djedet_name:0 "Джедет" #Banebdjedet - Lower Egyptian
+    holy_site_djedet_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_djedet_name$)#!"
+    holy_site_djedu_name:0 "Джеду" #Osiris - Lower Egyptian
+    holy_site_djedu_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_djedu_name$)#!"
+    holy_site_perbast_name:0 "Пер-баст" #Bastet - Lower and Upper Egyptian
+    holy_site_perbast_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_perbast_name$)#!"
+    holy_site_perwadjet_name:0 "Пер-ваджет" #Wadjet - Lower Egyptian
+    holy_site_perwadjet_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_perwadjet_name$)#!"
+    holy_site_taremu_name:0 "Тарему" #Sekhmet - Lower Egyptian
+    holy_site_taremu_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_taremu_name$)#!"
+    holy_site_tjebnutjer_name:0 "Тьебнутьер" #Isis - Lower Egyptian
+    holy_site_tjebnutjer_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_tjebnutjer_name$)#!"
+    holy_site_zau_name:0 "Зау" #Neith - Lower Egyptian
+    holy_site_zau_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_zau_name$)#!"
+    #Upper Egypt
+    holy_site_abu_name:0 "Абу" #Khnum - Upper Egyptian
+    holy_site_abu_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_abu_name$)#!"
+    holy_site_gebtu_name:0 "Гэбту" #Min - Upper Egyptian
+    holy_site_gebtu_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_gebtu_name$)#!"
+    holy_site_henennesut_name:0 "Хенен-несут" #Heryshaf - Lower Egyptian
+    holy_site_henennesut_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_henennesut_name$)#!"
+    holy_site_hutrepyt_name:0 "Хет-репит" #Repyt - Upper Egyptian
+    holy_site_hutrepyt_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_hutrepyt_name$)#!"
+    holy_site_ipu_name:0 "Ипу" #Min - Lower Egyptian
+    holy_site_ipu_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_ipu_name$)#!"
+    holy_site_iunet_name:0 "Юнет" #Hathor - Upper and Lower Egyptian
+    holy_site_iunet_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_iunet_name$)#!"
+    holy_site_iuny_name:0 "Иуни" #Montu - Upper Egyptian
+    holy_site_iuny_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_iuny_name$)#!"
+    holy_site_naqada_name:0 "Накада" #Set - Upper Egyptian
+    holy_site_naqada_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_naqada_name$)#!"
+    holy_site_nekheb_name:0 "Нехеб" #Nekhbet - Upper Egyptian
+    holy_site_nekheb_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_nekheb_name$)#!"
+    holy_site_nubt_name:0 "Нубт" #Sobek - Upper Egyptian
+    holy_site_nubt_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_nubt_name$)#!"
+    holy_site_saka_name:0 "Сака" #Anubis - Lower Egyptian
+    holy_site_saka_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_saka_name$)#!"
+    holy_site_seshesh_name:0 "Сешеш" #Bat-Hathor - Upper Egyptian
+    holy_site_seshesh_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_seshesh_name$)#!"
+    holy_site_shedet_name:0 "Шедет" #Sobek - Lower Egyptian
+    holy_site_shedet_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_shedet_name$)#!"
+    holy_site_swenett_name:0 "Суэнетт" #Isis - Upper Egyptian
+    holy_site_swenett_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_swenett_name$)#!"
+    holy_site_tasenet_name:0 "Та-сенет" #Khnum and Neith - Upper and Lower Egyptian
+    holy_site_tasenet_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_tasenet_name$)#!"
+    holy_site_tjebu_name:0 "Тьебу" #Nemty - Upper Egyptian
+    holy_site_tjebu_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_tjebu_name$)#!"
+    holy_site_tjenu_name:0 "Тьену" #Anhur - Upper Egyptian
+    holy_site_tjenu_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_tjenu_name$)#!"
+    holy_site_zawty_name:0 "Заути" #Wepwawet and Anubis - Upper Egyptian
+    holy_site_zawty_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_zawty_name$)#!"
+    #LEVANTINE
+    #Southern Canaan/Palestine
+    holy_site_yerushalem_name:0 "Йеру-Шалем" #Shalem - Caananite, Later Yahweh - Yahwist
+    holy_site_yerushalem_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_yerushalem_name$)#!"
+    holy_site_gaza_name:0 "Газа" #Hauron/Horon - Canaanite and Egyptian
+    holy_site_gaza_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_petra_name$)#!"
+    holy_site_samaria_name:0 "Самария" #Asherah - Canaanite
+    holy_site_samaria_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_samaria_name$)#!"
+    holy_site_rabbatammon_name:0 "Раббат-Аммон" #Milkom - Canaanite
+    holy_site_rabbatammon_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_rabbatammon_name$)#!"
+    holy_site_hazor_name:0 "Хазор" #? - Canaanite
+    holy_site_hazor_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_hazor_name$)#!"
+    #Phoenicia
+    holy_site_acre_name:0 "Акко" #? - Phoenician
+    holy_site_acre_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_acre_name$)#!"
+    holy_site_arwad_name:0 "Арвада" #? - Phoenician
+    holy_site_arwad_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_arwad_name$)#!"
+    holy_site_byblos_name:0 "Библос" #Ba'alat Gebal - Phoenician
+    holy_site_byblos_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_byblos_name$)#!"
+    holy_site_sidon_name:0 "Сидон" #Eshmun - Phoenician
+    holy_site_sidon_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_sidon_name$)#!"
+    holy_site_tyre_name:0 "Тир" #Melqart - Phoenician
+    holy_site_tyre_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_tyre_name$)#!"
+    #Northern Canaan/Syria
+    holy_site_tadmor_name:0 "Тадмор" #Bol, Yarhibol - Amorite
+    holy_site_tadmor_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_tadmor_name$)#!"
+    holy_site_mari_name:0 "Мари" #Mer - Amorite
+    holy_site_mari_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_mari_name$)#!"
+    holy_site_ugarit_name:0 "Угарит" #El, basically every other Canaanite deity - Amorite
+    holy_site_ugarit_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_ugarit_name$)#!"
+    holy_site_halab_name:0 "Халаб" #Ba'al Hadad - Canaanite, Also Teshub - Hurrian
+    holy_site_halab_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_halab_name$)#!"
+    holy_site_ebla_name:0 "Эбла" #Kura, Hadabal and a bunch of other deities - Eblaite
+    holy_site_ebla_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_ebla_name$)#!"
+    holy_site_emar_name:0 "Эмар" #Ba'al Hadad and Astarte - Amorite and Eblaite
+    holy_site_emar_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_emar_name$)#!"
+    holy_site_qadesh_name:0 "Кадеш" #Qadesh - Canaanite
+    holy_site_qadesh_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_qadesh_name$)#!"
+    #Unused
+    #Southern Canaan/Palestine
+    holy_site_dan_name:0 "Дан" #Lotan - Canaanite
+    holy_site_dan_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_dan_name$)#!"
+    holy_site_dibon_name:0 "Дибон" #Kamish #Canaanite
+    holy_site_dibon_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_dibon_name$)#!"
+    #Northern Canaan/Syria
+    holy_site_qatna_name:0 "Катна" #? - Eblaite
+    holy_site_qatna_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_qatna_name$)#!"
+    holy_site_sakkuku_name:0 "Земля Амурру" #? - Amorite
+    holy_site_sakkuku_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_sakkuku_name$)#!"
+    holy_site_tuttul_name:0 "Туттул" #Dagon - Amorite
+    holy_site_tuttul_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_tuttul_name$)#!"
+    holy_site_alalakh_name:0 "Алалах" #Ishara - Eblaite, Amorite and Hurrian
+    holy_site_alalakh_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_alalakh_name$)#!"
+    holy_site_terqa_name:0 "Терка" #Itur Mer - Amorite
+    holy_site_terqa_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_terqa_name$)#!"
+    holy_site_damascus_ba_name:0 "Даммекс" #Hadad - Aramean
+    holy_site_damascus_ba_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_damascus_ba_name$)#!"
+    #JEWISH
+    holy_site_bethel_name:0 "Бейт-Эл" #Bethel, possible holy site of god named Bethel who was either similar to or identical to Yahweh - Yahwist
+    holy_site_bethel_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_bethel_name$)#!"
+    holy_site_seir_name:0 "Гора Сеир" #Mount Se'ir, holy to Qaus, national god of the Edomites who was similar to Yahweh in character - Yahwist
+    holy_site_seir_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_seir_name$)#!"
+    holy_site_gezirim_ba_name:0 "Гора Гезирим" #Mount Gezirim, sacred to Samaritians - Yahwist
+    holy_site_gezirim_ba_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_gezirim_ba_name$)#!"
+    holy_site_sinai_ba_name:0 "Гора Синай" #Where Moses recieves the Ten Commandments - Yahwist
+    holy_site_sinai_ba_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_sinai_name$)#!"
+    #HURRIAN
+    holy_site_nagar_name:0 "Нагар" #Nabarbi - Hurrian
+    holy_site_nagar_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_nagar_name$)#!"
+    holy_site_urkesh_name:0 "Уркеш" #Kumarbi - Hurrian
+    holy_site_urkesh_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_urkesh_name$)#!"
+    holy_site_karkamisa_name:0 "Каркамиш" #Kubaba - Hurrian
+    holy_site_karkamisa_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_karkamisa_name$)#!"
+    holy_site_harran_name:0 "Харран" #Hebat and Nikkal - Amorite and Hurrian, Later Sin - Assyrian and Babylonian
+    holy_site_harran_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_harran_name$)#!"
+    holy_site_lawazantiya_name:0 "Лавазантия" #Shaushka - Hurrian
+    holy_site_lawazantiya_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_lawazantiya_name$)#!"
+    holy_site_shusharra_name:0 "Шушарра" #Some Hurrian Deity?
+    holy_site_shusharra_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_shusharra_name$)#!"
+    holy_site_simurrum_name:0 "Симуррум" #Some Hurrian Deity?
+    holy_site_simurrum_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_simurrum_name$)#!"
+    holy_site_arrapha_name:0 "Аррапха" #Teshub - Hurrian
+    holy_site_arrapha_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_arrapha_name$)#!"
+    holy_site_gasur_name:0 "Газур" #Nanaya - Assyrian and Babylonian, Originally Shaushka - Hurrian
+    holy_site_gasur_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_gasur_name$)#!"
+    #Unused
+    holy_site_kumme_name:0 "Кумме" #Teshub -Hurrian, Not on the map yet
+    holy_site_kumme_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_kumme_name$)#!"
+    holy_site_wassukanni_name:0 "Вашшуканни" #Indra - Mittani
+    holy_site_wassukanni_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_wassukanni_name$)#!"
+    holy_site_haburatum_name:0 "Въезд в Кур" #Allani, all Hurro-Mesopotamian underworld gods
+    holy_site_haburatum_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_haburatum_name$)#!"
+    #Elamite
+    holy_site_liyan_name:0 "Лиян" #Kiririsha - Highland Elamite
+    holy_site_liyan_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_liyan_name$)#!"
+    holy_site_anshan_name:0 "Аншан" #Napirisha - Highland Elamite
+    holy_site_anshan_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_anshan_name$)#!"
+    holy_site_susan_name:0 "Сузы" #Inshushinak - Susanian Elamite
+    holy_site_susan_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_susan_name$)#!"
+    holy_site_huhnuri_name:0 "Хухнури" #Ruhurater - Highland Elamite
+    holy_site_huhnuri_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_huhnuri_name$)#!"
+    holy_site_qirbit_name:0 "Кирбит" #Some Gutian Deity ?
+    holy_site_qirbit_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_qirbit_name$)#!"
+    holy_site_kurangun_name:0 "Курангун" #Humban - Elamite
+    holy_site_kurangun_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_kurangun_name$)#!"
+    #Kushite
+    holy_site_kerma_name:0 "Керма" #Some Nubian Deity?
+    holy_site_kerma_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_kerma_name$)#!"
+    holy_site_sye_name:0 "Се" #Some Nubian Deity?
+    holy_site_sye_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_sye_name$)#!"
+    holy_site_semna_name:0 "Семна" #Some Nubian Deity?
+    holy_site_semna_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_semna_name$)#!"
+    holy_site_sinisri_name:0 "Синисри" #Some Nubian Deity?
+    holy_site_sinisri_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_sinisri_name$)#!"
+    #Megalithic
+    holy_site_siwa_name:0 "Сива" #Amun - Egyptian
+    holy_site_siwa_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_siwa_name$)#!"
+    holy_site_timsahe_name:0 "Тимсахе" #Some Berber Deity?
+    holy_site_timsahe_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_timsahe_name$)#!"
+    holy_site_tablate_name:0 "Таблате" #Some Berber Deity?
+    holy_site_tablate_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_tablate_name$)#!"
+    holy_site_farafra_name:0 "Фарафра" #Some Berber Deity?
+    holy_site_farafra_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_farafra_name$)#!"
+    holy_site_bahariya_name:0 "Бахария" #Some Berber Deity?
+    holy_site_bahariya_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_bahariya_name$)#!"
+    #Cypriot
+    holy_site_philia_name:0 "Филия" #Some Cypriot Deity?
+    holy_site_philia_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_philia_name$)#!"
+    holy_site_ledra_name:0 "Ледра" #Some Cypriot Deity?
+    holy_site_ledra_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_ledra_name$)#!"
+    holy_site_alasiya_name:0 "Аласия" #Some Cypriot Deity?
+    holy_site_alasiya_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_alasiya_name$)#!"
+    holy_site_pappa_name:0 "Паппа" #Paphos - Aphrodite/Astarte - Cypriot
+    holy_site_pappa_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_pappa_name$)#!"
+    holy_site_kalabasos_name:0 "Калабасос" #Amathus - Aphrodite/Astarte - Cypriot
+    holy_site_kalabasos_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_kalabasos_name$)#!"
+    
+    holy_site_dodona_name:0 "Додона" #Diwa/Dione and Deiwos/Zeus - Proto-Hellenic
+    holy_site_dodona_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_dodona_name$)#!"
+    holy_site_olympos_name:0 "Гора Олимп" #Deiwos/Zeus and all other deities - Proto-Hellenic
+    holy_site_olympos_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_ur_name$)#!"
+    holy_site_delphi_name:0 "Дельфи" #Apollon Delphinios - Aegean, later Mycenean
+    holy_site_delphi_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_delphi_name$)#!"
+    holy_site_olympia_name:0 "Олимпия" #Deiwos/Zeus - Mycenean
+    holy_site_olympia_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_olympia_name$)#!"
+    holy_site_delos_name:0 "Делос" #Apollon and Britomartis/Artemis - Aegean, later Mycenean
+    holy_site_delos_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_delos_name$)#!"
+    holy_site_pylos_name:0 "Пилос" #Poseidawonos/Poseidon - Aegean, later Mycenean
+    holy_site_pylos_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_pylos_name$)#!"
+    holy_site_knossos_name:0 "Кносс" #The Daktyls and Hyakinthos - Minoan
+    holy_site_knossos_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_knossos_name$)#!"
+    holy_site_thera_name:0 "Акротири" #Some Minoan God?
+    holy_site_thera_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_thera_name$)#!"
+    holy_site_apasa_name:0 "Апаса" #Originally Artimus - Lydian, Later Artemis - Greek
+    holy_site_apasa_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_apasa_name$)#!"
+    holy_site_lemnos_name:0 "Лемнос" #Hephaistos - Aegean, later Mycenean
+    holy_site_lemnos_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_lemnos_name$)#!"
+    holy_site_tarhuntassa_name:0 "Тарунташа" #Tarhunz - Luwian
+    holy_site_tarhuntassa_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_tarhuntassa_name$)#!"
+    holy_site_tarsa_name:0 "Тарса" #Shanta - Luwian
+    holy_site_tarsa_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_tarsa_name$)#!"
+    holy_site_wiyanawanda_name:0 "Виянауанда" #Arma - Luwian
+    holy_site_wiyanawanda_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_wiyanawanda_name$)#!"
+    holy_site_millawanda_name:0 "Миллаванда" #Some Luwian God? - Later Apollon - Greek
+    holy_site_millawanda_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_millawanda_name$)#!"
+    holy_site_wilion_name:0 "Вилион" #Tiwad - Luwian
+    holy_site_wilion_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_wilion_name$)#!"
+    holy_site_hattusha_name:0 "Хаттуша" #Tarhunna - Hittite
+    holy_site_hattusha_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_hattusha_name$)#!"
+    holy_site_kussara_name:0 "Куссар" #Some Hittite God?
+    holy_site_kussara_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_kussara_name$)#!"
+    holy_site_ankuwa_name:0 "Анкува" #Some Hittite God?
+    holy_site_ankuwa_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_ankuwa_name$)#!"
+    holy_site_shappiduwa_name:0 "Шаппидува" #Some Hittite God?
+    holy_site_shappiduwa_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_shappiduwa_name$)#!"
+    holy_site_ulma_name:0 "Ульма" #Some Hittite God?
+    holy_site_ulma_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_ulma_name$)#!"
+    holy_site_kanesh_name:0 "Каниш" #Some Hittite God?
+    holy_site_kanesh_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_kanesh_name$)#!"
+    holy_site_tuwanuwa_name:0 "Туванува" #Some Hittite God?
+    holy_site_tuwanuwa_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_tuwanuwa_name$)#!"
+    holy_site_phaistos_name:0 "Гора Ида" #Velchanos/Zeus and Rhea - Minoan
+    holy_site_phaistos_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_phaistos_name$)#!"
+    holy_site_zakros_name:0 "Закрос" #Some Minoan God?
+    holy_site_zakros_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_zakros_name$)#!"
+    holy_site_kudoni_name:0 "Кудони" #Some Minoan God?
+    holy_site_kudoni_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_kudoni_name$)#!"
+    
+    holy_site_akkuddu_name:0 "Аккудду" #Some Gutian God?
+    holy_site_akkuddu_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_akkuddu_name$)#!"
+    holy_site_marubishtu_name:0 "Марубишту" #Some Gutian God?
+    holy_site_marubishtu_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_marubishtu_name$)#!"
+    holy_site_halman_name:0 "Халман" #Some Lullubi God?
+    holy_site_halman_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_halman_name$)#!"
+ 
+    holy_site_luluban_name:0 "Лулубан" #Some Lullubi God?
+    holy_site_luluban_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_luluban_name$)#!"
+    holy_site_kanara_name:0 "Канара" #Some Lullubi God?
+    holy_site_kanara_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_kanara_name$)#!"
+    
+    holy_site_pangaion_name:0 "Гора Пангеон" #Holy to Bendis
+    holy_site_pangaion_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_pangaion_name$)#!"
+    holy_site_samothrace_name:0 "Самофраки" #Home to Samothracian mysteries
+    holy_site_samothrace_effect_name:0 "Из [Concept('holy_site','священного города')|E] #weak ($holy_site_samothrake_name$)#!"
+    
+    

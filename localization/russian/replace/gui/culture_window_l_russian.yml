@@ -1,0 +1,2 @@
+﻿l_russian:
+ INNOVATION_ERA_NOT_IN_YEAR:0 "#N Эта эпоха недоступна до тех пор, пока [Subtract_int32('(int32)2900', '(int32)$YEAR$')] до н.э.#!"

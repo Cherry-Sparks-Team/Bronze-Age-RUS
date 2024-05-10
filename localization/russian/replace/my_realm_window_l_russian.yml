@@ -1,0 +1,6 @@
+﻿l_english:
+ FEUDAL_CONTRACT:100 "Vassal Contract"
+ VASSAL_CONTRACT_OBLIGATIONS_TITLE:100 "Vassal Tax Level"
+ VASSAL_CONTRACT_OBLIGATIONS_TITLE_LEVIES:100 "Vassal Levies Level"
+ MY_REALM_WINDOW_CONTROL_TOOLTIP:100 "#T Province Control: [CountyGroup.GetCapitalProvince.GetCounty.GetControlLevelOutOfMax]#!\n[CountyGroup.GetCapitalProvince.GetCounty.GetCountyControlEffectsDesc]\n\n[CountyGroup.GetCapitalProvince.GetCounty.GetCountyControlIncreaseDesc]"
+ MY_REALM_WINDOW_NO_FEUDAL_CONTRACT_TT:0 "#T No Individual Obligations\n#!Only [feudal|E] [vassals|E] (not including [barons|E]) can have individual [obligations|E]"

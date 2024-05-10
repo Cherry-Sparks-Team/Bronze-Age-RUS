@@ -1,0 +1,3 @@
+﻿l_english:
+ crown_authority_3_effects:100 "$EFFECT_LIST_BULLET$[vassals|E] cannot wage any [war|E] unless they use a [hook|E] on their [liege|E]"
+ I_LACK_LAW_ALLOWING_SUCCESSION_LAW_CHANGE:100 "You do not have High [crown_authority|E]"

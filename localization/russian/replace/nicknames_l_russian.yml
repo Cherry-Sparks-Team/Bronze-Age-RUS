@@ -1,0 +1,11 @@
+﻿l_russian:
+ nick_the_bane_of_barbarians:0 "Проклятие варваров"
+ nick_the_bane_of_barbarians_desc:1 "Распространенное мнение гласит, что среди варваров нет ни одной семьи, которая не потеряла бы родственника из-за [CharYourHerHis(CHARACTER)] клинка."
+ nick_the_culture_wall:0 "[CHARACTER.GetCulture.GetNameNoTooltip] стена"
+ nick_the_culture_wall_desc:1 "Ни один иностранный рейдер, ни один работорговец, ни один голодный грабитель не бороздит водные пути [CharYourHerHis(CHARACTER)]  не охотится на людей [CharYourHerHis(CHARACTER)]."
+ nick_barbarian_foe:0 "Враг варваров"
+ nick_barbarian_foe_desc:1 "Некоторые дураки говорят, что [CharYouSheHe(CHARACTER)] не может напугать варвара, что у них лед в жилах. [CharYouSheHe(CHARACTER)|U] знаете, они умирают, крича и истекая кровью, как и все остальные."
+ nick_the_scourge_of_the_barbarians:0 "Бич варваров"
+ nick_the_scourge_of_the_barbarians_desc:1 "Они приходят на [CharYourHerHis(CHARACTER)] земли в поисках рабов и добычи. [CharYouSheHe(CHARACTER)|U] даете им только быструю смерть и вечность в [CHARACTER.GetFaith.random_NegativeAfterLife]."
+ nick_the_burner_of_ash:0 "Сжигатель золы"
+ nick_the_burner_of_ash_desc:0 "Ничто не пахнет так хорошо, как горящий корабль весенним утром."

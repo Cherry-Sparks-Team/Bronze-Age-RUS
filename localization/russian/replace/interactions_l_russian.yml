@@ -1,0 +1,6 @@
+﻿l_english:
+ vassal_contract_forbids_revocation:2 "You cannot revoke [titles|E] from a [vassal|E] who has a [feudal_contract|E] with #high $title_revocation_rights_protected$#!"
+ IS_PROTECTED_VIA_CONTRACT:1 "[CHARACTER.GetShortUINamePossessive] [feudal_contract] forbids forceful conversion"
+ IS_PROTECTED_VIA_CONTRACT_SELF_OR_LIEGE:0 "This [vassals_possessive] [feudal_contract] protects their lands from conversion"
+ feudalize_tribal_holding_interaction:0 "Urbanize Tribe"
+ feudalize_tribal_holding_interaction_notification:0 "Urbanized Tribe"                                                                                     

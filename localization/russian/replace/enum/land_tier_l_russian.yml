@@ -1,0 +1,10 @@
+﻿l_english:
+# barony: "barony"
+ barony_plural:0 "communities"
+# county: "county"
+ county_plural:0 "city-states"
+# duchy: "duchy"
+ duchy_plural:0 "kingdoms"
+# kingdom: "kingdom"
+ kingdom_plural:0 "high kingdoms"
+

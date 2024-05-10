@@ -1,0 +1,33 @@
+﻿l_english:
+ #Vote strength descriptions
+ tooltip_elective_dynasty_members_on_council:0 "[dynasty|E] members on [council|E]: $VALUE|=+0$"
+ tooltip_elective_dynasty_members_titles_in_liege_realm:0 "[dynasty|E] members [titles|E] in [lieges|E] [realm|E]: $VALUE|=+0$"
+ tooltip_elective_dynastic_prestige:0 "The [electors|E] [dynastic|E] [dynasty_prestige|E]: $VALUE|=+0$"
+ tooltip_elective_de_jure_cities:0 "[de_jure|E] [cities|E] in [domain|E]: $VALUE|=+0$"
+ tooltip_elective_de_jure_cities_in_sumer:0 "Held [cities|E] within [de_jure|E] and historical region of Sumer: $VALUE|=+0$"
+ tooltip_elective_priesthood_of_nippur:0 "Priesthood of Nippur: $VALUE|=+0$"
+ #New Types of Successions
+ #Sumerian
+ sumerian_elective:0 "Sumerian Elective"
+ sumerian_elective_succession_law:0 "Sumerian Elective"
+ sumerian_elective_succession_law_effects:0 "The rulers of the cities of Sumer elect the next ruler from among prominent leaders in Sumer."
+ sumerian_elective_electors:0 "City Leaders of Sumer"
+ sumerian_elective_electors_tooltip:0 "All the leaders of the cities of Sumer gain one vote per city held."
+ sumerian_elective_candidates:0 "Dukes or higher in Sumer"
+ sumerian_elective_candidates_tooltip:0 "Prominent Rulers in Sumer, Close Family and Claimants"
+ #Dynastic Elective
+ dynastic_elective:0 "Dynastic Elective"
+ dynastic_elective_tooltip:0 "Dynastic Elective"
+ dynastic_elective_succession_law:0 "Dynastic Elective"
+ dynastic_elective_succession_law_effects:0 "All the [realms|E] [dynast|E]'s elect the next ruler with the amount of votes depending how much power the dynastic members hold in the realm."
+ dynastic_elective_electors:0 "Dynasty Heads"
+ dynastic_elective_electors_tooltip:0 "All the [realms|E] [dynast|E] elect the next ruler with the amount of votes depending how much power the dynastic members hold in the realm."
+ dynastic_elective_candidates:0 "Vassals, Claimants, Close Family"
+ dynastic_elective_candidates_tooltip:0 "The candidates are either the direct vassals, claimants or close family of the current holder."
+ #City Confederation
+ city_confederation_elective_succession_law:0 "Urban Confederation"
+ city_confederation_elective_succession_law_effects:0 "The rulers of the [de_jure|E] cities elect the next ruler with each [elector|E] having one vote per held city."
+ city_confederation_elective_electors:0 "City Leaders"
+ city_confederation_elective_electors_tooltip:0 "All the leaders of the [de_jure|E] cities gain one vote per city held."
+ city_confederation_elective_candidates:0 "Close Family, Claimants and Vassals"
+ city_confederation_elective_candidates_tooltip:0 "Close Family of the current ruler, claimants and any vassals of the holder are eligible to be elected the next ruler."

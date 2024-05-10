@@ -1,0 +1,337 @@
+l_russian:
+ #Custom
+ enables_tombs:0 "Разблокирует [Concept('tomb_site','надгробия')|E]"
+ enables_cults:0 "Разблокирует [Concept('cult_worship','культувое поклонение')|E] для [Concept('urban','городским')|E] и [Concept('palatial','дворцовым')|E] [Concept('rulers','правителям')|E]"
+ urban_can_become_palatial:0 "[Concept('urban','городские')|E] [Concept('rulers','правители')|E] могут стать [Concept('palatial','дворцовыми')|E]"
+ can_designate_heir:0 "Правители могут назначить своего [Concept('heir','наследника')|E]"
+ unlocks_first_duchy_buildings:0 "Открывает первый уровень [Concept('duchy_buildings','царской постройки')|E]"
+ unlocks_duchy_buildings:0 "Открывает дополнительный уровень [Concept('duchy_buildings','царской постройки')|E]"
+ less_negative_impact_from_distance_01:0 "[Concept('distance_efficiency','Дипломатический радиус')|E]: #P +20.00%#!"
+ less_negative_impact_from_distance_02:0 "$less_negative_impact_from_distance_01$"
+ less_negative_impact_from_distance_03:0 "$less_negative_impact_from_distance_01$"
+ less_negative_impact_from_distance_04:0 "$less_negative_impact_from_distance_01$"
+ enables_writing:0 "Разблокирует письменность"
+ enables_charioteering:0 "Разблокирует катание на колесницах"
+ unlocks_dynastic_elective_succession:0 "Разблокирует династический закон о выборном наследовании"
+ unlock_governor_contract:0 "Разблокируйте вассальный контракт губернатора"
+ can_construct_new_capital:0 "Может основать новый город в качестве столицы"
+ development_1_base_development:0 "[Concept('developmental_decay','Снижение развития')|E] округа теперь начинается с 10 [Concept('development','развития')|E]"
+ development_2_base_development:0 "[Concept('developmental_decay','Снижение развития')|E] округа теперь начинается с 20 [Concept('development','развития')|E]"
+ development_3_base_development:0 "[Concept('developmental_decay','Снижение развития')|E] округа теперь начинается с 30 [Concept('development','развития')|E]"
+ development_4_base_development:0 "[Concept('developmental_decay','Снижение развития')|E] округа теперь начинается с 40 [Concept('development','развития')|E]"
+ unlock_early_bronze_age_economic_buildings:0 "Открывает доступ ко всем [Concept('economic_buildings','экономическим постройкам')|E] раннего бронзового века"
+ unlock_early_bronze_age_agriculture_buildings:0 "Открывает доступ ко всем [Concept('agricultural_buildings','агрокультурным постройкам')|E] раннего бронзового века"
+ unlock_early_bronze_age_military_buildings:0 "Открывает доступ ко всем [Concept('military_buildings','военным постройкам')|E] раннего бронзового века"
+ unlock_early_bronze_age_fortification_buildings:0 "Открывает доступ ко всем [Concept('fortification_buildings','фортификационным постройкам')|E] раннего бронзового века"
+ unlock_middle_bronze_age_agriculture_buildings:0 "Открывает доступ ко всем [Concept('agricultural_buildings','агрокультурным постройкам')|E] среднего бронзового века"
+ unlock_middle_bronze_age_economic_buildings:0 "Открывает доступ ко всем [Concept('economic_buildings','экономическим постройкам')|E] среднего бронзового века"
+ unlock_middle_bronze_age_military_buildings:0 "Открывает доступ ко всем [Concept('military_buildings','военным постройкам')|E] среднего бронзового века"
+ unlock_middle_bronze_age_fortification_buildings:0 "Открывает доступ ко всем [Concept('fortification_buildings','фортификационным постройкам')|E] среднего бронзового века"
+ unlock_late_bronze_age_agriculture_buildings:0 "Открывает доступ ко всем [Concept('agricultural_buildings','агрокультурным постройкам')|E] позднего бронзового века"
+ unlock_late_bronze_age_economic_buildings:0 "Открывает доступ ко всем [Concept('economic_buildings','экономическим постройкам')|E] позднего бронзового века"
+ unlock_late_bronze_age_military_buildings:0 "Открывает доступ ко всем [Concept('military_buildings','военным постройкам')|E] позднего бронзового века"
+ unlock_late_bronze_age_fortification_buildings:0 "Открывает доступ ко всем [Concept('fortification_buildings','фортификационным постройкам')|E] позднего бронзового века""
+ unlock_early_iron_age_agriculture_buildings:0 "Открывает доступ ко всем [Concept('agricultural_buildings','агрокультурным постройкам')|E] раннего железного века"
+ unlock_early_iron_age_economic_buildings:0 "Открывает доступ ко всем [Concept('economic_buildings','экономическим постройкам')|E] раннего железного века"
+ unlock_early_iron_age_military_buildings:0 "Открывает доступ ко всем [Concept('military_buildings','военным постройкам')|E] раннего железного века"
+ unlock_early_iron_age_fortification_buildings:0 "Открывает доступ ко всем [Concept('fortification_buildings','фортификационным постройкам')|E] раннего железного века"
+ 
+##############
+# Early Bronze Age #
+##############
+
+ #Military
+ innovation_earthworks:0 "Земляные работы"
+ innovation_earthworks_desc:0 ""
+
+ #innovation_barracks:0 "Городские казармы"
+ #innovation_barracks_desc:0 ""
+ 
+ innovation_raiding_parties:0 "Рейдерские экспедиции"
+ innovation_raiding_parties_desc:0 ""
+ 
+ #innovation_mustering_grounds:0 "Место сбора"
+ #innovation_mustering_grounds_desc:0 ""
+ 
+ innovation_tribal_vassals:0 "Племенные вассалы"
+ innovation_tribal_vassals_desc:0 ""
+ 
+ innovation_bronze_socket_axe:0 "Бронзовый торцовый топор"
+ innovation_bronze_socket_axe_desc:0 ""
+ 
+ innovation_siege_ladders:0 "Осадные лестницы"
+ innovation_siege_ladders_desc:0 ""
+ 
+ #Civic
+
+ #innovation_city_planning:0 "Городское планирование"
+ #innovation_city_planning_desc:0 ""
+ 
+ innovation_early_palaces:0 "Ранние дворцы"
+ innovation_early_palaces_desc:0 ""
+ 
+ innovation_centralized_irrigation:0 "Централизованное орошение"
+ innovation_centralized_irrigation_desc:0 ""
+ 
+ innovation_potters_wheel:0 "Гончарный круг"
+ innovation_potters_wheel_desc:0 ""
+ 
+ innovation_city_states:0 "Города-государства"
+ innovation_city_states_desc:0 ""
+ 
+ innovation_kingship:0 "Царствование"
+ innovation_kingship_desc:0 ""
+ 
+ innovation_kings_justice:0 "Царсткое правосудие"
+ innovation_kings_justice_desc:0 ""
+ 
+ innovation_border_stones:0 "Пограничные камни"
+ innovation_border_stones_desc:0 ""
+ 
+ innovation_cults:0 "Организованные культы" #Cultic Worship
+ innovation_cults_desc:0 ""
+
+ innovation_tombs:0 "Гробницы"
+ innovation_tombs_desc:0 ""
+
+ innovation_permanent_settlements:0 "Постоянные поселения"
+ innovation_permanent_settlements_desc:0 ""
+ #Regional
+
+ innovation_aegean_raiders:0 "Эгейские рейдеры"
+ innovation_aegean_raiders_desc:0 ""
+ 
+ innovation_dilmun_magan_seafarers:0 "Дилмунитские моряки"
+ innovation_dilmun_magan_seafarers_desc:0 ""
+ 
+ innovation_papyrus:0 "Папирус"
+ innovation_papyrus_desc:0 ""
+ 
+ innovation_grain_rations:0 "Зерновые рационы"
+ innovation_grain_rations_desc:0 ""
+
+ innovation_marsh_raider:0 "Болотные рейдеры"
+ innovation_marsh_raider_desc:0 "В Южном Шумере можно найти обширную болотистую местность, которая с каждым годом становится все больше по мере того, как сток Евфрата и Тигра заполняет новые земли. Народы, которые называют эту землю своим домом, со временем научились приспосабливаться к болотистой местности и имеют хорошие возможности противостоять любым иностранным вторжениям."
+ 
+ innovation_writing:0 "Письменность"
+ innovation_writing_desc:0 ""
+ 
+ innovation_spoked_wheel:0 "Колесо со спицами"
+ innovation_spoked_wheel_desc:0 ""
+ 
+ innovation_composite_bow:0 "Составные луки"
+ innovation_composite_bow_desc:0 ""
+ 
+ innovation_gutian_raiders:0 "Гутианские налетчики"
+ innovation_gutian_raiders_desc:0 ""
+ 
+######################
+# Middle Bronze Age #
+###################### 
+ 
+ #Military 
+ innovation_fortifications_2:0 "Фортификации II"
+ innovation_fortifications_2_desc:0 ""
+ 
+ innovation_barracks_2:0 "Казармы II"
+ innovation_barracks_2_desc:0 ""
+ 
+ innovation_conscription:0 "Воинская повинность"
+ innovation_conscription_desc:0 ""
+ 
+ innovation_maa_cap_2:0 "Вместимость отрядов II"
+ innovation_maa_cap_2_desc:0 ""
+ 
+ innovation_tributaries:0 "Притоки"
+ innovation_tributaries_desc:0 ""
+ 
+ innovation_swords:0 "Мечи"
+ innovation_swords_desc:0 ""
+ 
+ innovation_glory_seekers:0 "Искатели славы"
+ innovation_glory_seekers_desc:0 ""
+
+ innovation_habiru_mercenaries:0 "Наемники Хабиру"
+ innovation_habiru_mercenaries_desc:0 ""
+ 
+ innovation_battering_rams:0 "Тараны"
+ innovation_battering_rams_desc:0 ""
+ #Civic
+
+ innovation_development_2:0 "Развитие II"
+ innovation_development_2_desc:0 ""
+ 
+ innovation_palatial:0 "Дворец"
+ innovation_palatial_desc:0 ""
+ 
+ innovation_artificial_resorvoirs:0 "Искусственные водоемы"
+ innovation_artificial_resorvoirs_desc:0 ""
+ 
+ innovation_economic_2:0 "Экономика II"
+ innovation_economic_2_desc:0 ""
+ 
+ innovation_regional_divisioning:0 "Региональное разделение"
+ innovation_regional_divisioning_desc:0 ""
+ 
+ innovation_empowered_aristocracy:0 "Могущественная аристократия"
+ innovation_empowered_aristocracy_desc:0 ""
+ 
+ innovation_law_code:0 "Правовой кодекс"
+ innovation_law_code_desc:0 ""
+ 
+ innovation_designate_heir:0 "Назначение наследника"
+ innovation_designate_heir_desc:0 ""
+
+ innovation_tombs_2:0 "Гробницы II"
+ innovation_tombs_2_desc:0 ""
+ #Regional
+
+ innovation_frescoes:0 "Фрески"
+ innovation_frescoes_desc:0 ""
+ 
+ innovation_camel_domestication:0 "Одомашнивание верблюда"
+ innovation_camel_domestication_desc:0 ""
+ 
+#####################
+# Late Bronze Age #
+#####################
+
+ 
+ innovation_fortifications_3:0 "Фортификации III"
+ innovation_fortifications_3_desc:0 ""
+ 
+ innovation_barracks_3:0 "Казармы III"
+ innovation_barracks_3_desc:0 ""
+ 
+ innovation_puppet_rulers:0 "Марионеточные правители"
+ innovation_puppet_rulers_desc:0 ""
+ 
+ innovation_maa_cap_3:0 "Вместимость отрядов III"
+ innovation_maa_cap_3_desc:0 ""
+ 
+ innovation_charioteer_elite:0 "Марианну"
+ innovation_charioteer_elite_desc:0 ""
+ 
+ innovation_scale_armor:0 "Чешуйчатая броня"
+ innovation_scale_armor_desc:0 ""
+ 
+ innovation_siege_engineers:0 "Осадные инженеры"
+ innovation_siege_engineers_desc:0 ""
+ 
+ #Civic
+
+ innovation_development_3:0 "Развитие III"
+ innovation_development_3_desc:0 ""
+ 
+ innovation_imperial_palaces:0 "Императорские дворцы"
+ innovation_imperial_palaces_desc:0 ""
+ 
+ innovation_agri_3:0 "Агрокультуры III"
+ innovation_agri_3_desc:0 ""
+ 
+ innovation_econ_3:0 "Экономика III"
+ innovation_econ_3_desc:0 ""
+ 
+ innovation_diplomatic_missions:0 "Дипломатические миссии"
+ innovation_diplomatic_missions_desc:0 ""
+ 
+ innovation_governors:0 "Губернаторы"
+ innovation_governors_desc:0 ""
+ 
+ innovation_imperial_authority:0 "Имперская власть"
+ innovation_imperial_authority_desc:0 ""
+ 
+ innovation_new_capitals:0 "Новая столица"
+ innovation_new_capitals_desc:0 ""
+ 
+ #Regional
+
+ innovation_medjay:0 "Меджаи"
+ innovation_medjay_desc:0 ""
+ 
+ innovation_cyclopean_walls:0 "Циклопические стены"
+ innovation_cyclopean_walls_desc:0 ""
+ 
+#####################
+# Early Iron Age #
+##################### 
+ 
+ 
+ innovation_fortification_4:0 "Фортификации IV"
+ innovation_fortification_4_desc:0 ""
+ 
+ innovation_barracks_4:0 "Казармы IV"
+ innovation_barracks_4_desc:0 ""
+ 
+ innovation_advanced_formations:0 "Передовые формирования"
+ innovation_advanced_formations_desc:0 ""
+ 
+ #innovation_standing_armies:0 "Постоянные армии"
+ #innovation_standing_armies_desc:0 ""
+ 
+ innovation_early_cavalry:0 "Ранняя кавалерия"
+ innovation_early_cavalry_desc:0 ""
+ 
+ innovation_siege_towers:0 "Осадные башни"
+ innovation_siege_towers_desc:0 ""
+ 
+ #Civic
+
+ innovation_development_4:0 "Развитие IV"
+ innovation_development_4_desc:0 ""
+ 
+ innovation_distance_efficiency_4:0 "Дипломатический радиус IV"
+ innovation_distance_efficiency_4_desc:0 ""
+ 
+ innovation_agri_4:0 "Агрокультуры IV"
+ innovation_agri_4_desc:0 ""
+ 
+ innovation_econ_4:0 "Экономика IV"
+ innovation_econ_4_desc:0 ""
+ 
+ innovation_iron_bloomeries:0 "Железные цветники"
+ innovation_iron_bloomeries_desc:0 ""
+ 
+ innovation_simplified_construction:0 "Упрощенная конструкция"
+ innovation_simplified_construction_desc:0 ""
+ 
+ #Regional
+
+ innovation_neo_pyramids:0 "Нео-пирамиды"
+ innovation_neo_pyramids_desc:0 ""
+
+ #Maa
+
+ innovation_war_cart:0 "Военная повозка"
+ innovation_war_cart_desc:0 ""
+
+ innovation_ta_seti_bowmen:0 "Лучники Та-Сети"
+ innovation_ta_seti_bowmen_desc:0 ""
+
+ innovation_aegean_maceman:0 "Эгейский Масемен"
+ innovation_aegean_maceman_desc:0 ""
+
+ innovation_boar_tusk_warrior:0 "Воин с шлемом из клыков
+"
+ innovation_boar_tusk_warrior_desc:0 ""
+
+ innovation_axe_and_bow_warriors:0 "Воины с топорами и луками"
+ innovation_axe_and_bow_warriors_desc:0 ""
+
+ innovation_khopesh:0 "Хопеш"
+ innovation_khopesh_desc:0 ""
+
+ innovation_hyksos_charioteers:0 "Гиксосские возничие"
+ innovation_hyksos_charioteers_desc:0 ""
+
+ innovation_early_hoplite:0 "Ранние гоплиты"
+ innovation_early_hoplite_desc:0 ""
+
+ innovation_haibrw_cavalry:0 "Кавалерия Хайбру"
+ innovation_haibrw_cavalry_desc:0 ""
+
+ innovation_panoply_warrior:0 "Воин в доспехах"
+ innovation_panoply_warrior_desc:0 ""
+
+ innovation_hittite_chariot:0 "Хеттская колесница"
+ innovation_hittite_chariot_desc:0 ""

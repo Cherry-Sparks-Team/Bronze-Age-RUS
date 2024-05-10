@@ -1,0 +1,9 @@
+﻿l_english:
+ #Form custom kingdom or empire
+ found_kingdom_decision:100 "Found a New High Kingdom"
+ found_kingdom_decision_desc:100 "I will unite my realm under a new High Kingdom title, to belong to my dynasty for all time."
+ found_kingdom_decision_tooltip:100 "Found an entirely new High Kingdom title"
+ create_new_kingdom:100 "You create a new High Kingdom"
+ create_title_every_held_duchy:100 "Every Kingdom title you [hold|E] or [completely_control|E]"
+ create_custom_kingdom_de_jure_changes:1 "Becomes [de_jure|E] [duchies|E] of your new High Kingdom"
+ create_title_every_held_kingdom:100 "Every High Kingdom title you [hold|E] or [completely_control|E]"

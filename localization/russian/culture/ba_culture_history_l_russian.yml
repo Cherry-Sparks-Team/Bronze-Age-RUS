@@ -1,0 +1,3 @@
+﻿l_russian:
+ neo_sumerian_history_loc:0 "Образовано из [CULTURE.GetName] и $sumerian$ в [DATE.GetYear] году"
+ neo_hittite_history_loc:0 "Образован из [CULTURE.GetName] неизвестной культуры $heritage_hurrian$ [Concept('heritage','наследия')|E] в [DATE.GetYear] году"

@@ -1,0 +1,17 @@
+﻿l_russian:
+ #Ethos
+ ethos_placeholder_name:0 "PLACEHOLDER"
+ ethos_placeholder_desc:0 "PLACEHOLDER"
+ #Traditions
+ tradition_two_rivers_two_people_name:0 "Две реки, Два народа"
+ tradition_two_rivers_two_people_desc:0 "На протяжении веков народы Аккада и Шумера взаимодействовали и обменивались идеями и правлением друг с другом. Для многих изучение языка братской цивилизации стало необходимостью"
+ culture_parameter_easier_to_learn_sumerian_and_akkadian:0 "Шумерский и Аккадский [Concept('languages','языки')|E] легче поддаются изучению"
+ culture_parameter_more_likely_to_learn_sumerian_and_akkadian:0 "[Concept('characters','Персонажи')|E] с большей вероятностью изучат Шумерский и Аккадский [Concept('languages','языки')|E]"
+ tradition_egyptian_isolation_name:0 "Египетская изоляция"
+ tradition_egyptian_isolation_desc:0 "Наши земли - центр мира, где царит безраздельный порядок. За пределами наших земель люди - варвары, и хаос торжествует над всем остальным. Чтобы сохранить порядок в мире, мы должны уберечь наш образ жизни, культуру и наследие от иностранного влияния, чтобы тоже не стать варварами".
+ culture_parameter_easier_assimilation_in_egypt:0 "#s В пределах [GetGeographicalRegion('world_egypt').GetName]:\n#!   [Concept('councillor_task','Задание советника')|E] по продвижении культуры #P более#! эффективное\n   #P Сопротивление#! к [Concept('councillor_task','заданию советника')|E] по продвижению культуры"
+ culture_parameter_harder_assimilation_outside_egypt:0 "#s За пределами [GetGeographicalRegion('world_egypt').GetName]:\n#!   [Concept('councillor_task','Задание советника')|E] по продвижении культуры #N менее#! эффективное"
+ culture_parameter_assimilation_resistance_in_egypt:0 ""
+ culture_parameter_easier_vassalization_same_tradition:0 "[Concept('characters','Персонажи')|E] разделяющие эту доктрину, с большей вероятностью согласятся на #высокое $offer_vassalization_interaction$#! [Concept('interaction','взаимодействие')|E]"
+ culture_parameter_less_acceptance_not_same_tradition:0 "[Concept('cultures','Культуры')|E] с этой [Concept('tradition','традицией')|E] будут иметь меньшее [Concept('cultural_acceptance','принятия')|E] по отношению к другим культурам"
+ culture_parameter_wars_targeting_outside_egypt_more_expensive:0 "[Concept('wars','Войны')|E] нацелены на [Concept('titles','титулы')|E] за пределами [GetGeographicalRegion('world_egypt').GetName] их стоимость #N удвоилась#!"

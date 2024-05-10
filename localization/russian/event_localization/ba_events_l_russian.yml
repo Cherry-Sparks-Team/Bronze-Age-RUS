@@ -1,0 +1,245 @@
+﻿l_english:
+ ba_egyptian.0001.t:0 "A Child Left To Its Fate"
+ ba_egyptian.0001.desc:0 "While on a stroll outside the palace you hear a faint sounds that can only be that from a young baby. After approaching the source of the sound you find a tiny babe that must have just recently been born. You quickly realize this is not some forgotten child but instead an instance of the common practice of foreigners to leave unwanted children to die in the wild. This cruel fate is shared by many born to parents not accustomed to the ways of Kemet but perhaps we could intercede and at least save this precious life?"
+ ba_egyptian.0001.a:0 "This gift by Set will have a second chance at life."
+ ba_egyptian.0001.b:0 "The world is full of cruelty, one good deed won't be changing that."
+ spoked_wheel_alert.0001.t:0 "An Encounter With Chariotry"
+ spoked_wheel_alert.0001.desc:0 "Our brethren have encountered a new devastating horse-drawn war machine, there must be a way for us to harness this power!"
+ spoked_wheel_alert.0001.a:0 "War will never be the same."
+ composite_bow_alert.0001.t:0 "A New Kind Of Bow"
+ composite_bow_alert.0001.desc:0 "Our brethren have encountered a new kind of bow capable of a much more powerful draw while being significantly smaller. If we investigate this further perhaps we can master this new technology as well?"
+ composite_bow_alert.0001.a:0 "We must find a way to make use of this."
+ writing_alert.0001.t:0 "The Art Of Writing"
+ writing_alert.0001.desc:0 "Our brethren have encountered foreign traders marking lumps of clay with signs that apparently can symbolize anything. If we investigate this further perhaps we can master this technology as well."
+ writing_alert.0001.a:0 "We must get our wisest people on this."
+ birth.1001.c:0 "I'm sorry my [child.Custom('GetDaughterSon')], it is not your time."
+ birth.1001.d:0 "I'm sorry my [child.Custom('TwinDaughtersSonsChildren')], it is not your time."
+ birth.1003.c:0 "$birth.1001.c$"
+ birth.1003.d:0 "$birth.1001.d$"
+ birth.3012.b:0 "$birth.3012.a$"
+ birth.3012.c:0 "It was not your time either my [child.Custom('GetDaughterSon')]."
+ birth.3012.d:0 "It was not your time either my [child.Custom('TwinDaughtersSonsChildren')]."
+ DEAD_INFANTICIDE:0 "The world is a cruel place and life is never a guarantee, much less a good one free from hunger and pain."
+
+ ba_cult.0001.t:0 "A New Chapter in the history of the [ROOT.Char.GetFaith.GetName]"
+ ba_cult.0001.desc:0 "Under our patronage the [ROOT.Char.GetFaith.GetName] has grown larger and more respected! The practices of our [ROOT.Char.GetFaith.PriestNeuterPlural] have become more elaborate and in the eyes of the world we have become more revered then at any point before now. In fact before we'd even noticed it our faith had become more organized and adopted new practices..."
+ ba_cult.0001.a:0 "A tithe is collected in our honour!"
+ ba_cult.0001.b:0 "We need not wait for the afterlife to collect our rewards!"
+ ba_cult.0001.c:0 "A large flock of believers carry our message fervently!"
+ ba_cult.0001.d:0 "The greatest of our patrons are immortalized in statue!"
+
+ ba_bloodsport_decision.0001.t:0 "The Bloodsport"
+ ba_bloodsport_decision.0001.desc:0 "I've exhausted every capable opponent within these palace walls, and with each passing day I grow more restless. My matches no longer feel as exciting as they used to, the occasional sparring match lacks the thrill of real combat...\n\n But, it happens that an interesting rumor has floated through the palace, of an underground gathering of warriors who will fight in violent contests of power. As a ruler I know should reprimand them... but when the thrill of combat I seek may be just around the corner, can I really turn my back on the opportunity? \n\n And so... slipping away quietly in the night I arrive at the meeting place. The guards scrutinize my strangely familiar and well groomed appearance, but a small bribe lets me through the doors. As I sign up and await my turn I find my anxiety and restlessness melting into fervent excitiment!"
+ ba_bloodsport_decision.0001.a:0 "Let the first match begin!"
+
+ ba_bloodsport_decision.1003.t:0 "Victorious!"
+ ba_bloodsport_decision.1003.desc:0 "The match had it's ups and downs, but I emerged victorious in the end! The crowd may be... unsavory, but the rowdy cheers and howls at every exchange of blows was invogorating. As I collect my winnings, I spy even stronger looking opponents milling about and preparing for their matches. I could take my winnings and go home... or seek some more excitement for the day..."
+ ba_bloodsport_decision.1003.a:0 "It was fun while it lasted, but I am satisifed with the experience" 
+ ba_bloodsport_decision.1003.b:0 "Are you kidding? I'm only getting started!" 
+
+ ba_bloodsport_decision.1004.t:0 "Loss!"
+ ba_bloodsport_decision.1004.desc:0 "My day ends in defeat, and jeers meet me as I stumble to away, bloody and beaten. Maybe I learned something today, but it wasn't the lesson I wanted"
+ ba_bloodsport_decision.1004.a:0 "Time to go home" 
+
+ ba_bloodsport_decision.1005.t:0 "An Interesting Encounter"
+ ba_bloodsport_decision.1005.desc:0 "As I prepare for another match a mysterious man arrives before me. Something about him commands attention. He sizes me up before laughing. \n "Surely you cannot be the one winning these matches? Some pampered noble? Hah!" \n\n I feel my blood boiling at his comments but I try to reign it in. He's clearly edging for a fight after all."
+ ba_bloodsport_decision.1005.a:0 "If it's a fight he wants it's a fight he's gonna get!" 
+ ba_bloodsport_decision.1005.b:0 "He looks strong, maybe he can give me some pointers?" 
+ ba_bloodsport_decision.1005.c:0 "I'll just ignore him sensibly" 
+ ba_bloodsport_decision.1005.he_accepts:0 "He is surprised at first but seems to actually be passionate about fighting and gives some good tips"
+ ba_bloodsport_decision.1005.he_declines:0 "He laughs in my face and makes fun of me before walking away"
+ ba_bloodsport_decision.1005.he_makes_a_fool:0 "He embarrasses me so much that word spreads to even my palace by the end of the day"
+
+
+ ba_bloodsport_decision.1007.t:0 "Smug Victory"
+ ba_bloodsport_decision.1007.desc:0 "The smug grin has been wiped off of the strangers face and they lay defeated at my feat. Now however, I can see a glimmer of respect in their eyes as they regard me."
+ ba_bloodsport_decision.1007.a:0 "That was a worthy duel, I would be glad to have you on my side!" 
+ ba_bloodsport_decision.1007.b:0 "Grovelling suits you well" 
+
+ ba_bloodsport_decision.1008.t:0 "Devestating Defeat"
+ ba_bloodsport_decision.1008.desc:0 "The traumatizing beating has ended, but I still feel like my body is about to crack from the pressure. The Bloodsport was hard before now, but this was the icing on the cake. I struggle to my feat and stumble away dazed. Had I really come so far just to be humiliated?"
+ ba_bloodsport_decision.1008.a:0 "I want to go home" 
+
+ ba_bloodsport_decision.1011.t:0 "The End Draws Closer"
+ ba_bloodsport_decision.1011.desc:0 "I stumble off the stage. These repeated bouts have really worn me down. The battles come one right after the other and end in brutal fashion. But still I've never been more alive! This is the most fun I've had in ages! Still... the end of this bloodsport draws near as I note that I am one of the few contestants remaining... Just a few more fights and I can compete for the full prize"
+ ba_bloodsport_decision.1011.a:0 "I'm going all in" 
+ ba_bloodsport_decision.1011.b:0 "Maybe it's time I called it quits" 
+
+ ba_bloodsport_decision.1012.t:0 "A Sad Day"
+ ba_bloodsport_decision.1012.desc:0 "This was one battle too much, I should've just called it quits earlier. Rubbing my shoulders all I can think about is just how close I got to winning..."
+ ba_bloodsport_decision.1012.a:0 "There's always next time" 
+
+ ba_bloodsport_decision.1015.t:0 "Triumph"
+ ba_bloodsport_decision.1015.desc:0 "The cheers blend together in a blur, and it's all I can do to stand up. Fighting so many matches in a row wasn't easy and yet I stand here successful. And now I am the undisputed victor! I had come here for a bit of excitement, and without a doubt this Bloodsport delivered. My skills have never felt sharper, and I've gotten experience here that no sparring match with some tutor could emulate. A happy victory indeed" 
+ ba_bloodsport_decision.1015.a:0 "I can't wait for the next one!" 
+
+ ba_bloodsport_decision.1016.t:0 "Defeat"
+ ba_bloodsport_decision.1016.desc:0 "It shouldn't bother me as much as it does, but still... this loss stings. A flawless streak, broken at the last second. Bitterness envelops me, and it's all I can do not to use my remaining strength to lunge at my opponent. Still I did pick up some things from the fight, else it might've been a complete waste of my time" 
+ ba_bloodsport_decision.1016.a:0 "At least I learned something" 
+ 
+ ba_decisions.0001.t:0 "The Gate of the Gods"
+ ba_decisions.0001.desc:0 "With Babylon and the lands of Akkad under my control, the time is ripe for the creation of a new kingdom centered on the great city.\n\nNo longer shall the people of Akkad be threatened by pompous Sumerians and barbarous Guti. May this new kingdom usher in an era of peace and prosperity for the region!"
+ ba_decisions.0001.a:0 "For the glory of Bel-Marduk!"
+ ba_decisions.0002.desc:0 "Having brought the lands of Akkad under [scoped_ruler.GetHisHer] control, [scoped_ruler.GetTitledFirstName] has decided to declare [scoped_ruler.GetHerselfHimself] [scoped_ruler.GetTitleTierName] of a new kingdom centered on Babylon.\n\nOnly time will tell what impact this will have on the surrounding region."
+ ba_decisions.0002.a:0 "I see..."
+ 
+ # Embrace Babylonian Culture
+ ba_decisions.0003.t:0 "[embracer_former_culture.GetNameNoTooltip|U] no More"
+ ba_decisions.0003.desc:0 "The time when we [embracer.GetCulture.GetCollectiveNounNoTooltip] considered Amurru our homeland has long since passed. Our children are born here, surrounded by Akkadians, and to them, Amurru will only ever be a blurred line beyond the hazy horizons of Akkad.\n\nAnd, as we make some of the local customs our own, so too the legacy of our culture spreads throughout the Akkadian lands, giving birth to a new Babylonian identity."
+ ba_decisions.0003.a:0 "Long live the Babylonians!"
+
+ ba_decisions.0004.desc:0 "The [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('embracer'))] [embracer.GetName], [embracer.GetHerHis] vassals, and [embracer.GetHerHis] whole family has heeded the call of Akkad and embraced Babylonian culture."
+ ba_decisions.0004.a:0 "It was only a matter of time."
+ ba_decisions.0004.b:0 "Traitors!"
+ 
+ # Embrace Hyksos Culture
+ ba_decisions.0005.t:0 "[embracer_former_culture.GetNameNoTooltip|U] no More"
+ ba_decisions.0005.desc:0 "The time when we [embracer.GetCulture.GetCollectiveNounNoTooltip] considered Canaan our homeland has long since passed. Our children are born here, surrounded by Kemetics, and to them, Canaan will only ever be a blurred line beyond the hazy shores of Kemet.\n\nAnd, as we make some of the local customs our own, so too the legacy of our culture spreads throughout the Kemetic lands, giving birth to a new Hyksos identity."
+ ba_decisions.0005.a:0 "Long live the Hyksos!"
+
+ ba_decisions.0006.desc:0 "The [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('embracer'))] [embracer.GetName], [embracer.GetHerHis] vassals, and [embracer.GetHerHis] whole family has heeded the call of Kemet and embraced Hyksos culture."
+ ba_decisions.0006.a:0 "It was only a matter of time."
+ ba_decisions.0006.b:0 "Traitors!"
+ 
+ # Elevate Cult of Marduk
+ ba_decisions.0007.t:0 "The Cult of Marduk"
+ ba_decisions.0007.desc:0 "Is Marduk not the greatest of all gods?\n\nWhy then should we continue to answer to the priesthood of Enlil in distant Nippur; let all of Babylonia bow before the true King of the Gods!"
+ ba_decisions.0007.a:0 "Glory to Marduk!"
+
+ ba_decisions.0008.desc:0 "The [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('embracer'))] [embracer.GetName], [embracer.GetHerHis] vassals, and [embracer.GetHerHis] whole family has heeded the call of Marduk and converted to the Babylonian faith."
+ ba_decisions.0008.a:0 "It was only a matter of time."
+ ba_decisions.0008.b:0 "Traitors!"
+ 
+ # Elevate Cult of Ashur
+ ba_decisions.0009.t:0 "The Cult of Aššur"
+ ba_decisions.0009.desc:0 "Is Aššur not the greatest of all gods?\n\nWhy then should we continue to answer to the priesthood of Enlil in distant Nippur; let all of Assyria bow before the Father of all Gods!"
+ ba_decisions.0009.a:0 "Glory to Aššur!"
+
+ ba_decisions.0010.desc:0 "The [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('embracer'))] [embracer.GetName], [embracer.GetHerHis] vassals, and [embracer.GetHerHis] whole family has heeded the call of Aššur and converted to the Assyrian faith."
+ ba_decisions.0010.a:0 "It was only a matter of time."
+ ba_decisions.0010.b:0 "Traitors!"
+ 
+ # Promote Aegean Syncretism
+ ba_decisions.0011.t:0 "The Cult of Poseidawonos"
+ ba_decisions.0011.desc:0 "As we [embracer.GetFaith.GetCollectiveNounNoTooltip] settle among the Pelasgians, many of our people have been influenced by the religous practices of our new homeland.\n\nWe have come to worship the god Poseidawonos at the head of a mixed pantheon of Aegean and Hellenic deities."
+ ba_decisions.0011.a:0 "Glory to Poseidawonos!"
+
+ ba_decisions.0012.desc:0 "The [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('embracer'))] [embracer.GetName], [embracer.GetHerHis] vassals, and [embracer.GetHerHis] whole family has heeded the call of Poseidawonos and converted to the Mycenaean faith."
+ ba_decisions.0012.a:0 "It was only a matter of time."
+ ba_decisions.0012.b:0 "Traitors!"
+ 
+ # Promote Hyksos Syncretism
+ ba_decisions.0013.t:0 "The Cult of Set-Hadad"
+ ba_decisions.0013.desc:0 "As we [embracer.GetFaith.GetCollectiveNounNoTooltip] settle among the Kemetics, many of our people have been influenced by the religous practices of our new homeland.\n\nWe have come to worship the god Set-Hadad at the head of a mixed pantheon of Kemetic and Canaanite deities."
+ ba_decisions.0013.a:0 "Glory to Set-Hadad!"
+
+ ba_decisions.0014.desc:0 "The [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('embracer'))] [embracer.GetName], [embracer.GetHerHis] vassals, and [embracer.GetHerHis] whole family has heeded the call of Set-Hadad and converted to the Hyksos faith."
+ ba_decisions.0014.a:0 "It was only a matter of time."
+ ba_decisions.0014.b:0 "Traitors!"
+ 
+ #Destroy Ebla
+ ba_decisions.0015.t:0 "Ebla Destroyed"
+ ba_decisions.0015.desc:0 "With Ebla and its subject lands under my control, the time is ripe for the destruction of the once great kingdom centered on the city.\n\nNo longer shall the people of Amurru be threatened by pompous Eblaites and their false gods!"
+ ba_decisions.0015.a:0 "May Ebla be forgotten!"
+ ba_decisions.0016.desc:0 "Having brought the lands of Akkad under [scoped_ruler.GetHisHer] control, [scoped_ruler.GetTitledFirstName] has decided to declare [scoped_ruler.GetHerselfHimself] [scoped_ruler.GetTitleTierName] of a new kingdom centered on Babylon.\n\nOnly time will tell what impact this will have on the surrounding region."
+ ba_decisions.0016.a:0 "I see..."
+ 
+ #Recreate Ebla
+ ba_decisions.0017.t:0 "Ebla Triumphant"
+ ba_decisions.0017.desc:0 "With Ebla and its former lands under my control, the time is ripe for the recreation of a kingdom centered on the great city.\n\nNo longer shall the people of Ebla be threatened by barbarous Amorites and Hurrians. May this new kingdom usher in an era of peace and prosperity for the region!"
+ ba_decisions.0017.a:0 "For the glory of Kura!"
+ ba_decisions.0018.desc:0 "Having brought the lands of Ebla under [scoped_ruler.GetHisHer] control, [scoped_ruler.GetTitledFirstName] has decided to declare [scoped_ruler.GetHerselfHimself] [scoped_ruler.GetTitleTierName] of a renewed kingdom centered on Ebla.\n\nOnly time will tell what impact this will have on the surrounding region."
+ ba_decisions.0018.a:0 "I see..."
+ 
+ # Embrace Eblaite Culture
+ ba_decisions.0019.t:0 "[embracer_former_culture.GetNameNoTooltip|U] no More"
+ ba_decisions.0019.desc:0 "Now that the kingdom of Ebla has been formally reborn, many of our people have looked through our most ancient archives and found evidence that the Eblaites of old had many practices different from our own.\n\nIn order to truly claim ourselves heirs to the Eblaites of old, we must adopt these traditions and make them our own."
+ ba_decisions.0019.a:0 "Long live the Eblaites!"
+
+ ba_decisions.0020.desc:0 "The [ROOT.Char.Custom2('RelationDescriptor', SCOPE.sC('embracer'))] [embracer.GetName], [embracer.GetHerHis] vassals, and [embracer.GetHerHis] whole family has heeded the call of Ebla and embraced Eblaite culture."
+ ba_decisions.0020.a:0 "It was only a matter of time."
+ ba_decisions.0020.b:0 "Traitors!"
+ 
+ #Recreate Emar
+ ba_decisions.0021.t:0 "Emar Triumphant"
+ ba_decisions.0021.desc:0 "With Emar and its former lands under my control, the time is ripe for the recreation of a kingdom centered on the great city.\n\nNo longer shall the people of Emar be threatened by the jealous Yamhad of Halab. May this new kingdom usher in an era of peace and prosperity for the region!"
+ ba_decisions.0021.a:0 "For the glory of Hadad!"
+ ba_decisions.0022.desc:0 "Having brought the lands of Emar under [scoped_ruler.GetHisHer] control, [scoped_ruler.GetTitledFirstName] has decided to declare [scoped_ruler.GetHerselfHimself] [scoped_ruler.GetTitleTierName] of a renewed kingdom centered on Emar.\n\nOnly time will tell what impact this will have on the surrounding region."
+ ba_decisions.0022.a:0 "I see..."
+ 
+ #Recreate Dibar
+ ba_decisions.0023.t:0 "Dibar Triumphant"
+ ba_decisions.0023.desc:0 "With Dibar and its former lands under my control, the time is ripe for the recreation of a kingdom centered on the great city.\n\nNo longer shall the people of Dibar be threatened by the jealous Mitanni. May this new kingdom usher in an era of peace and prosperity for the region!"
+ ba_decisions.0023.a:0 "For the glory of Teshub!"
+ ba_decisions.0024.desc:0 "Having brought the lands of Dibar under [scoped_ruler.GetHisHer] control, [scoped_ruler.GetTitledFirstName] has decided to declare [scoped_ruler.GetHerselfHimself] [scoped_ruler.GetTitleTierName] of a renewed kingdom centered on Dibar.\n\nOnly time will tell what impact this will have on the surrounding region."
+ ba_decisions.0024.a:0 "I see..."
+ 
+ #Recreate Qattanun
+ ba_decisions.0025.t:0 "Qattanun Triumphant"
+ ba_decisions.0025.desc:0 "With Emar and its former lands under my control, the time is ripe for the recreation of a kingdom centered on the great city.\n\nNo longer shall the people of Qattanun be threatened by the jealous Mitanni. May this new kingdom usher in an era of peace and prosperity for the region!"
+ ba_decisions.0025.a:0 "For the glory of Teshub!"
+ ba_decisions.0026.desc:0 "Having brought the lands of Qattanun under [scoped_ruler.GetHisHer] control, [scoped_ruler.GetTitledFirstName] has decided to declare [scoped_ruler.GetHerselfHimself] [scoped_ruler.GetTitleTierName] of a renewed kingdom centered on Qattanun.\n\nOnly time will tell what impact this will have on the surrounding region."
+ ba_decisions.0026.a:0 "I see..."
+ 
+ #Found Amurru
+ ba_decisions.0027.t:0 "The Land of Amurru"
+ ba_decisions.0027.desc:0 "With Arwada and Halpa under my control, the time is ripe for the creation of a kingdom centered on the great cities.\n\nNo longer shall the people of Amurru be threatened by grasping Phoenicians and the haughty kings of Ugarit. May this new kingdom usher in an era of peace and prosperity for the region!"
+ ba_decisions.0027.a:0 "For the glory of Hadad!"
+ ba_decisions.0028.desc:0 "Having brought the lands of Amurru under [scoped_ruler.GetHisHer] control, [scoped_ruler.GetTitledFirstName] has decided to declare [scoped_ruler.GetHerselfHimself] [scoped_ruler.GetTitleTierName] of a new kingdom centered on Arwada.\n\nOnly time will tell what impact this will have on the surrounding region."
+ ba_decisions.0028.a:0 "I see..."
+ 
+ #Found Nuhasse
+ ba_decisions.0029.t:0 "The Land of Nuhašše"
+ ba_decisions.0029.desc:0 "With the lands surrounding Nuhašše, the time is ripe for the creation of a kingdom centered on the great city.\n\nNo longer shall the people of Nuhašše be threatened by the haughty kings of Halab, Ebla, and Qatna. May this new kingdom usher in an era of peace and prosperity for the region!"
+ ba_decisions.0029.a:0 "For the glory of Hadad!"
+ ba_decisions.0030.desc:0 "Having brought the lands surrounding Nuhašše under [scoped_ruler.GetHisHer] control, [scoped_ruler.GetTitledFirstName] has decided to declare [scoped_ruler.GetHerselfHimself] [scoped_ruler.GetTitleTierName] of a new kingdom centered on Nuhašše.\n\nOnly time will tell what impact this will have on the surrounding region."
+ ba_decisions.0030.a:0 "I see..."
+ 
+ #Found Lydia
+ ba_decisions.0031.t:0 "The Land of Lydia"
+ ba_decisions.0031.desc:0 "With the Maeonian tribes under my control, the time is ripe for the creation of a kingdom centered on Sardeis.\n\nNo longer shall the people of Lydia be threatened by the hostile tribes beyond our borders. May this new kingdom usher in an era of peace and prosperity for the region!"
+ ba_decisions.0031.a:0 "For the glory of Artimus!"
+ ba_decisions.0032.desc:0 "Having brought the lands of the Maeonians under [scoped_ruler.GetHisHer] control, [scoped_ruler.GetTitledFirstName] has decided to declare [scoped_ruler.GetHerselfHimself] [scoped_ruler.GetTitleTierName] of a new kingdom centered on Sardeis.\n\nOnly time will tell what impact this will have on the surrounding region."
+ ba_decisions.0032.a:0 "I see..."
+
+ # Proto-Greek Split
+ ba_global_culture.0002.t:0 "Fate of the Proto-Greeks"
+ ba_global_culture.0002.desc:0 "Long ago, our ancestors migrated to the Greek peninsula and built their first settlements. We have lived here for generations since then, the land shaping us as much as we have shaped the land.\n\nIt is time to ask ourselves, are we still Proto-Greeks? Or are we something new entirely?"
+ ba_global_culture.0002.a:0 "The times are changing, and we must change with them."
+ ba_global_culture.0002.b:0 "We will not abandon the traditions of our ancestors!"
+
+ ba_global_culture.0003.t:0 "$ba_global_culture.0002.t$"
+ ba_global_culture.0003.desc:0 "When the Proto-Greeks first migrated into the Greek peninsula, they were foreigners in a new and strange land.\n\nThis changed over many generations, as land shaped them as much as they shaped the land itself. Over time the various communities of Proto-Greeks grew distinct and separate from one another.\n\nDespite their shared heritage these new communities — [achaian.GetName], [aeolian.GetName], [dorian.GetName], and [ionian.GetName] — no longer recognize each other as kin."
+ ba_global_culture.0003.a:0 "Only time will tell how this impacts the region."
+ 
+ #Spread of Neo-Sumerian culture
+ ba_global_culture.0005.t:0 "Spread of [neo_sumerian.GetNameNoTooltip] Culture"
+ ba_global_culture.0005.desc:0 "The increasing dominance of Akkadian-speaking peoples in Mesopotamia, combined with severe drops in agricultural production and population have lead to the abandonment of the [old_culture.GetLanguage.GetName|V].\n\nNow it is clear that the people of [GetGeographicalRegion('world_sumer').GetName] no longer see themselves as [old_culture.GetName], but as [neo_sumerian.GetCollectiveNoun]!"
+ ba_global_culture.0005.a:0 "The times are changing, and we must change with them."
+ ba_global_culture.0005.b:0 "We will not abandon the traditions of our ancestors!"
+ 
+ ba_global_culture.0006.t:0 "$ba_global_culture.0005.t$"
+ ba_global_culture.0006.desc:0 "$ba_global_culture.0005.desc$"
+ ba_global_culture.0006.a:0 "An interesting development..."
+ 
+ #Spread of Neo-Hittite culture
+ ba_global_culture.0007.t:0 "Spread of [neohittite.GetNameNoTooltip] Culture"
+ ba_global_culture.0007.desc:0 "The eclectic mix of peoples under Hittite rule in Northern Canaan and Anatolia have given rise a unique culture, affected by the myriad influences.\n\nNow it is clear that the people in the [county_to_change.GetName] no longer see themselves as [old_culture.GetName], but as [neohittite.GetCollectiveNoun]!"
+ ba_global_culture.0007.a:0 "An interesting development..."
+
+ ba_global_culture.0008.a:0 "Wonderful!"
+ 
+ ba_decisions.0033.t:0 "The Sumerian Language"
+ ba_decisions.0033.desc:0 "As the most influential ruler of [sumerian_language_adopter_scope.GetCulture.GetName] culture, and a ruler of a vast Sumerian realm, [sumerian_language_adopter_scope.GetName] has decreed that Sumerian is now both the liturgical and common language of the [sumerian_language_adopter_scope.GetCulture.GetNameNoTooltip] people!\n\nHebrew has been one of the liturgical languages of Mesopotamia for millennia, but now that [sumerian_language_adopter_scope.GetNameNoTooltip] rules over a Sumerian majority, the need to use other languages in everyday life is diminishing. Though not all [sumerian_language_adopter_scope.GetCulture.GetNameNoTooltip] people practice the Sumerian faith, it will likely only take a generation or two before all are speaking the Sumerian language."
+ ba_decisions.0033.a.sumerian:0 "Glory to Enlil!"
+ ba_decisions.0033.a.non_sumerian:0 "I'd better start practicing."
+ ba_decisions.0033.b:0 "I can't speak this strange language!"
+ 
+ ba_migrations.1131.t:0 "The Barbarian Menace"
+ ba_migrations.1131.desc:0 "A horde of disjointed pirates, landless freemen, desperate lesser children and other assorted miscreants have joined [attacker.GetFirstName] in [attacker.GetHerHis] proposed assault against my holdings.\n\nAlthough the size of the force is formidable, they lack discipline or loyalty, with each scrounged mercenary focused exclusively on what they can get out of the war first and foremost.\n\nUnlike a conventional foe, it might be possible to simply deal directly with the invaders. Perhaps a bargain could be struck..."
+ ba_migrations.1131.a:0 "Never! Back to your backwards hellscape of a home, scum!"
+ ba_migrations.1131.b:0 "If it's land they want, why not give it to them?"
+ ba_migrations.1131.c:0 "In my experience, soldiers prefer gold to glory..."
+ ba_migrations.1131.c.tt:0 "You pay a sizable sum directly to [attacker.GetFirstNamePossessiveNoTooltip] troops to have them disband"
+ ba_migrations.1131.d:0 "We'll banish these invaders as we've always done."
+ ba_migrations.1131.d.tt:0 "You fight the Barbarians the old-fashioned way"

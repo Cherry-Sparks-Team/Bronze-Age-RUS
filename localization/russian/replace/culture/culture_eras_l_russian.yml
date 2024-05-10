@@ -1,0 +1,10 @@
+﻿l_russian:
+ #ERAS
+ culture_era_tribal:0 "Ранний бронзовый век"
+ culture_era_tribal_desc:0 "Правители с [Concept('tribal_government','племенной формой правления')|E] могут использовать только [innovations|E] раннего бронзового века."
+ culture_era_early_medieval:0 "Средний бронзовый век"
+ culture_era_early_medieval_desc:0 ""
+ culture_era_high_medieval:0 "Поздний бронзовый век"
+ culture_era_high_medieval_desc:0 ""
+ culture_era_late_medieval:0 "Ранний железный век"
+ culture_era_late_medieval_desc:0 ""

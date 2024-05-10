@@ -1,0 +1,5 @@
+﻿l_english:
+ castle_holding:0 "City"
+ city_holding:0 "Settlement"
+ church_holding:1 "Temple"
+ tribal_holding:0 "Tribe"

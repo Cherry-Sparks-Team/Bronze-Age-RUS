@@ -1,0 +1,32 @@
+﻿#######################################################
+### Sun Trial by Mathilda Bjarnehed & Nick Meredith ###
+#######################################################
+
+#I have been left in the sun to die!
+ religious_interaction.2100.t:0 "[imprisoner.GetFaith.SunGodNamePossessive|U] Judgment"
+ religious_interaction.2100.desc:1 "After [ROOT.Char.GetFaith.SunGodName] knows how long in a dark cell, the harsh daylight is blinding. The guards who escort me out of the [imprisoner.Custom('FortifiedBuilding')] and into the wilderness are surprisingly solemn — ceremonious, even.\n\n"
+ 
+ religious_interaction.2100.deschostile: "As I lay my eyes on [imprisoner.GetTitledFirstName], flanked by a dozen [imprisoner.Custom('DefaultPriestTitlePlural')], the purpose of our little trip becomes clear.\n\n"[ROOT.Char.GetFullNameNoTooltip]. You will be left here, tied to this stake, and [imprisoner.GetFaith.SunGodName] shall determine your fate. If you are innocent, you shall live, but if you are guilty, you shall perish.""
+ religious_interaction.2100.middledefault: ""For your transgressions, you shall be judged by almighty [imprisoner.GetFaith.SunGodName|U]." [imprisoner.GetSheHe|U] booms. The guards step forward and lash my limbs to a stake; the [imprisoner.Custom('DefaultPriestTitlePlural')] begin a dirge, arms outstretched. The party then retreats. I am alone, expected to die of thirst."
+ religious_interaction.2100.middleoasis: ""For your transgressions, you shall be judged by almighty [imprisoner.GetFaith.SunGodName|U]." [imprisoner.GetSheHe|U] booms. The guards step forward and lash my limbs to a stake, chest-deep in the oasis; the [imprisoner.Custom('DefaultPriestTitlePlural')] begin a dirge, arms outstretched. The party then retreats. I am alone, expected to die of thirst."
+
+ religious_interaction.2100.a.believer:0 "[imprisoner.GetFaith.SunGodName|U] will judge me fairly!"
+
+#I have survived!
+ religious_interaction.2101.t:0 "[imprisoner.GetFaith.SunGodNamePossessive|U] Mercy"
+
+#They survived...
+ religious_interaction.2102.desc:0 "On the final eve of [prisoner.GetTitledFirstNamePossessive] trial, we find [prisoner.GetHerHim] unconscious, but still breathing.\n\n"It is a miracle!" the [ROOT.Char.Custom('DefaultPriestTitle')] declares, hands raised towards the heavens. "[ROOT.Char.GetFaith.SunGodName|U] has spoken! The [prisoner.GetWomanMan] is innocent!""
+ religious_interaction.2102.oasis: "As I approach [prisoner.GetTitledFirstName], splashing through the waters of the oasis in which [prisoner.GetSheHe] was tied to a stake in, we find [prisoner.GetHerHim] not just conscious but wholly healthy.\n\n"It is a miracle!" the [ROOT.Char.Custom('DefaultPriestTitle')] declares, hands raised towards the heavens. "[ROOT.Char.GetFaith.SunGodName|U] has spoken! The [prisoner.GetWomanMan] is innocent!"\n\nI grind my teeth in frustration as the [ROOT.Char.Custom('DefaultPriestTitlePlural')] untie [prisoner.GetFirstNameNoTooltip]. Why did we have to leave [prisoner.GetSheHe] #EMP here#!?!"
+ religious_interaction.2102.pleasant: "As I approach [prisoner.GetTitledFirstName], splashing through the waters of the oasis in which [prisoner.GetSheHe] was tied to a stake in, we find [prisoner.GetHerHim] not just conscious but practically #EMP grinning#!.\n\n"It is a miracle!" the [ROOT.Char.Custom('DefaultPriestTitle')] declares, hands raised towards the heavens. "[ROOT.Char.GetFaith.SunGodName|U] has spoken! The [prisoner.GetWomanMan] is innocent!"\n\nI grind my teeth in frustration as the [ROOT.Char.Custom('DefaultPriestTitlePlural')] untie [prisoner.GetFirstNameNoTooltip]. Why did we have to leave [prisoner.GetSheHe] #EMP here#!?!"
+ religious_interaction.2102.a:0 "It is [ROOT.Char.GetFaith.SunGodNamePossessive|U] will."
+ religious_interaction.2102.b.tt:0 "[ROOT.Char.GetFaith.SunGodName|U] isn't #EMP always#! right!"
+
+#I have died...
+ religious_interaction.2103.t: "[imprisoner.GetFaith.SunGodNamePossessive|U] Fury"
+ religious_interaction.2103.end.desc:0 "\n\nIf this is [ROOT.Char.GetFaith.SunGodHerHis|U] will, perhaps I deserve this. Perhaps I am... wicked."
+
+#They died!
+ religious_interaction.2104.desc:0 "On the final eve of [prisoner.GetTitledFirstNamePossessive] trial, [prisoner.GetSheHe] does not move as we approach. One of the servants put a flask to [prisoner.GetHerHis] parched lips, but the water runs down [prisoner.GetHerHis] chin without response.\n\n"[ROOT.Char.GetFaith.SunGodName|U] has spoken!" The [ROOT.Char.Custom('DefaultPriestTitle')] declares, hands raised towards the heavens. "The [prisoner.GetWomanMan] is guilty!""
+ religious_interaction.2104.desc.drowned: "As we approach where we left [prisoner.GetTitledFirstName] tied to a stake, it is quickly clear that something is wrong. [prisoner.GetHerHis|U] stake had presumably fallen forwards, directly into a pool we left [prisoner.GetHerHim] beside. The bindings we put on [prisoner.GetHerHis] limbs were clearly up to the task, and with the weight of the log pushing down on [prisoner.GetHerHim] [prisoner.GetSheHe] never stood a chance.\n\n"[ROOT.Char.GetFaith.SunGodName|U] has spoken!" The [ROOT.Char.Custom('DefaultPriestTitle')] declares, hands raised towards the heavens. "The [prisoner.GetWomanMan] is guilty!""
+ religious_interaction.2104.desc.oasisdrowned: "As we approach where we left [prisoner.GetTitledFirstName] tied to a stake, it is quickly clear that something is wrong. [prisoner.GetHerHis|U] stake had presumably fallen forwards, directly into the oasis we left [prisoner.GetHerHim] beside. The bindings we put on [prisoner.GetHerHis] limbs were clearly up to the task, and with the weight of the log pushing down on [prisoner.GetHerHim] [prisoner.GetSheHe] never stood a chance.\n\n"[ROOT.Char.GetFaith.SunGodName|U] has spoken!" The [ROOT.Char.Custom('DefaultPriestTitle')] declares, hands raised towards the heavens. "The [prisoner.GetWomanMan] is guilty!""

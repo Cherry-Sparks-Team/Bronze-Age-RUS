@@ -1,0 +1,27 @@
+﻿l_russian:
+
+ #Generic names
+ ba_generic_priest_name:0 "Жрец"
+ ba_generic_priest_name_plural:0 "Жрецы"
+ ba_generic_priestess_name:0 "Жрица"
+ ba_generic_priestess_name_plural:0 "Жрицы"
+ ba_generic_religious_head_title_name:0 "Первожречество"
+ ba_generic_high_priest_name:0 "Верховный жрец"
+ ba_generic_high_priest_name_plural:0 "Верховные жрецы"
+ ba_generic_high_priestess_name:0 "Верховная жрица"
+ ba_generic_high_priestess_name_plural:0 "Верховные жрицы"
+ ba_generic_realm_priest:0 "Жрец"
+ ba_generic_realm_priest_female:0 "Жрица"
+ councillor_court_chaplain_generic_county:0 "Придворный жрец"
+ councillor_court_chaplain_generic_county_female:1 "Придворная жрица"
+ councillor_court_chaplain_generic_county_possessive:0 "Придворножрический"
+ councillor_court_chaplain_generic_county_female_possessive:1 "Придворножрицевый"
+ councillor_court_chaplain_generic_duchy:1 "Жрец"
+ councillor_court_chaplain_generic_duchy_female:1 "Жрица"
+ councillor_court_chaplain_generic_duchy_possessive:1 "Жреческий"
+ councillor_court_chaplain_generic_duchy_female_possessive:1 "Жрицевый"
+ councillor_court_chaplain_generic_kingdom:1 "Верховный жрец"
+ councillor_court_chaplain_generic_kingdom_female:1 "Верховная жрица"
+ councillor_court_chaplain_generic_kingdom_possessive:1 "Верховного жреца"
+ councillor_court_chaplain_generic_kingdom_female_possessive:1 "Верховной жрицы'"
+ 

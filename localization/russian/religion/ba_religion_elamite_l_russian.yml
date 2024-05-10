@@ -1,0 +1,121 @@
+l_russian:
+ elamite_religion:0 "Эламск"
+ elamite_religion_adj:0 "Эламская вера"
+ elamite_religion_adherent:0 "Эламит"
+ elamite_religion_adherent_plural:0 "Эламиты"
+ elamite_religion_desc:0 "WIP."
+ 
+ elamite_faith:0 "Эламск"
+ elamite_faith_adj:0 "Эламская вера"
+ elamite_faith_adherent:0 "Эламит"
+ elamite_faith_adherent_plural:0 "Эламиты"
+ elamite_faith_desc:0 "WIP."
+ 
+ susanian_faith:0 "Шушанс"
+ susanian_faith_adj:0 "Шушанская вера"
+ susanian_faith_adherent:0 "Шушанин"
+ susanian_faith_adherent_plural:0 "Шушаны"
+ susanian_faith_desc:0 "WIP."
+
+ #Not sure if the tenses are right, might need to check with someone else
+ 
+ elamite_high_god_name:0 "Хумпан" #Sky god, chief deity among the highland Elamites; in Susa that position was instead occupied by Inshushinak
+ elamite_high_god_name_2:0 "$elamite_high_god_name$"
+ elamite_high_god_name_possessive:0 "Хумпана"
+ elamite_high_god_name_alternate:0 "Величайший из Богов"
+ elamite_high_god_name_alternate_possessive:0 "Величайшего из Богов"
+ elamite_devil_name:0 "Лагамаль" #Underworld deity associated with Inshushinak, "She who has no mercy"
+ elamite_devil_name_possessive:0 "Лагамаля"
+ elamite_death_deity_name:0 "Иншушинак" #Ruler of the Underworld
+ elamite_death_deity_name_possessive:0 "Иншушинака"
+ elamite_divine_realm:0 "Кики-ин" #Heaven, maybe?
+ elamite_divine_realm_2:0 "$elamite_divine_realm$"
+ elamite_divine_realm_3:0 "$elamite_divine_realm$"
+ elamite_positive_afterlife:0 "Муру-ун" #Earth - like in Mesopotamia a euphemism for the Underworld, maybe?
+ elamite_positive_afterlife_2:0 "$elamite_positive_afterlife$"
+ elamite_positive_afterlife_3:0 "$elamite_positive_afterlife$"
+ elamite_negative_afterlife:0 "Шаддаку" #Shadow - A more negative name for the Underworld, maybe?
+ elamite_negative_afterlife_2:0 "$elamite_negative_afterlife$"
+ elamite_negative_afterlife_3:0 "$elamite_negative_afterlife$"
+ elamite_religious_symbol:0 "змей" #Inshushinak
+ elamite_religious_symbol_2:0 "$elamite_religious_symbol$"
+ elamite_religious_symbol_3:0 "$elamite_religious_symbol$"
+ elamite_religious_text:0 "священные тексты"
+ elamite_religious_text_2:0 "$elamite_religious_text$"
+ elamite_religious_text_3:0 "$elamite_religious_text$"
+ elamite_pantheon:0 "Напипир" #The Gods, I think?
+ elamite_pantheon_2:0 "$elamite_pantheon$"
+ elamite_pantheon_3:0 "$elamite_pantheon$"
+ 
+ elamite_good_god_hutran:0 "Хутран"
+ elamite_good_god_upurkupak:0 "Упуркупак"
+ elamite_evil_god_kirmashir:0 "Кирмашир"
+ elamite_evil_god_hishmitik:0 "Хишмитик"
+ 
+ elamite_creator_god_name:0 "Джабру" #Sky god, father of Humban
+ elamite_creator_god_name_possessive:0 "Джабру"
+ elamite_health_god_name:0 "Киририша" #Patron goddess of Liyan, Mother goddess associated with healing and protection
+ elamite_health_god_name_possessive:0 "Кириришаши"
+ elamite_fertility_god_name:0 "Пинигир" #Goddess of love and sex, equivalent to Ishtar
+ elamite_fertility_god_name_possessive:0 "Пинигиры"
+ elamite_wealth_god_name:0 "Нахити" #God of the Sun, Justice and Trade
+ elamite_wealth_god_name_possessive:0 "Нахитита"
+ elamite_household_god_name:0 "Силир-Катру" #Protector of the Elamites
+ elamite_household_god_name_possessive:0 "Силир-Катрура"
+ elamite_fate_god_name:0 "Рууратер" #God of Judgement, protector of oaths
+ elamite_fate_god_name_possessive:0 "Рууратера"
+ elamite_knowledge_god_name:0 "$elamite_fate_god_name$"
+ elamite_knowledge_god_name_possessive:0 "$elamite_fate_god_name_possessive$"
+ elamite_war_god_name:0 "Нарунди" #Goddess of Victory
+ elamite_war_god_name_possessive:0 "Нарундиды"
+ elamite_trickster_god_name:0 "Симут" #Herald of the Gods, maybe War god
+ elamite_trickster_god_name_possessive:0 "Симута"
+ elamite_night_god_name:0 "Напир" #Moon god
+ elamite_night_god_name_possessive:0 "Напира"
+ elamite_water_god_name:0 "Напириша" #Patron god of Anshan, associated with earth and fresh water
+ elamite_water_god_name_possessive:0 "Напириша"
+ elamite_witch_god_name:0 "$elamite_death_deity_name$" #Inshushinak
+ elamite_witch_god_name_possessive:0 "$elamite_death_deity_name_possessive$"
+ 
+ elamite_sun_god_name:0 "Нахити"
+ elamite_sun_god_name_possessive:0 "Нахититы"
+
+ susanian_high_god_name:0 "Иншушинак"
+ susanian_high_god_name_2:0 "$susanian_high_god_name$"
+ susanian_high_god_name_possessive:0 "Иншушинака"
+ susanian_high_god_name_alternate:0 "повелитель Шушана"
+ susanian_high_god_name_alternate_possessive:0 "повелителя Шушана"
+ susanian_creator_god_name:0 "Энлиль"
+ susanian_creator_god_name_possessive:0 "Энлиль"
+ susanian_health_god_name:0 "Манзат" #Goddess of the Rainbow, Manzat and Belet-ili/Ninhursag were conflated by the Susanians
+ susanian_health_god_name_possessive:0 "Манзата"
+ susanian_fertility_god_name:0 "Адад"
+ susanian_fertility_god_name_possessive:0 "Адада"
+ susanian_wealth_god_name:0 "Шамаш"
+ susanian_wealth_god_name_possessive:0 "Шамаша"
+ susanian_household_god_name:0 "Машти" #Protector of the Gods
+ susanian_household_god_name_possessive:0 "Машти"
+ susanian_fate_god_name:0 "$susanian_wealth_god_name$"
+ susanian_fate_god_name_possessive:0 "$susanian_wealth_god_name_possessive$"
+ susanian_knowledge_god_name:0 "Ишникараб" #Goddess of Judgement, protector of oaths
+ susanian_knowledge_god_name_possessive:0 "Ишникараба"
+ susanian_night_god_name:0 "Син"
+ susanian_night_god_name_possessive:0 "Сина"
+ susanian_war_god_name:0 "Иштар"
+ susanian_war_god_name_possessive:0 "Иштары"
+ susanian_water_god_name:0 "Эа"
+ susanian_water_god_name_possessive:0 "Эа"
+ 
+ susanian_sun_god_name:0 "Шамаш"
+ susanian_sun_god_name_possessive:0 "Шамаша"
+ 
+ susanian_good_god_shala:0 "Шала"
+ susanian_good_god_belet-ili:0 "Белет-Илии"
+ susanian_evil_god_ishmekarab:0 "Ишмекараб"
+ 
+ d_cult_of_humban:0 "Верховное жречество Хумбана"
+ d_cult_of_humban_adj:0 "Хумбанитск"
+ 
+ d_cult_of_inshushinak:0 "Верховное жречество Иншушинака"
+ d_cult_of_inshushinak_adj:0 "Иншушинакитск"
+ 

@@ -1,0 +1,68 @@
+﻿l_russian:
+
+ #############################################
+#General names:
+ baron:0 "Старейшина"
+ baron_female:0 "Старейшина"
+ barony:0 "Община"
+ count:0 "Малый царь"
+ count_female:0 "Малая царица"
+ county:0 "Провинция"
+ duke:0 "Царь"
+ duke_female:0 "Царица"
+ duchy:0 "Царство"
+ king:0 "Верховный царь"
+ king_female:0 "Верховная царица"
+ kingdom:0 "Верховное царство"
+ 
+ baron_plural:0 "Старейшины"
+ count_plural:0 "Малые царьки"
+ duke_plural:0 "Цари"
+ king_plural:0 "Верховные цари"
+
+ realm_priest_male:0 "[CHARACTER.GetCouncilTitle]"
+ realm_priest_female:0 "[CHARACTER.GetCouncilTitle]"
+ head_of_faith_male:0 "[CHARACTER.GetFaith.ReligiousHeadName|U]"
+ head_of_faith_female:0 "[CHARACTER.GetFaith.ReligiousHeadName|U]"
+
+## Imperial Prince ##
+ prince_empire:0 "Принц"
+ princess_empire:0 "Принцесса"
+
+ duke_feudal_male_prince_independent:0 "Князь"
+ duke_feudal_female_prince_independent:0 "Княгиня"
+
+
+ #Default Feudal tiers 
+ baron_feudal_male:0 "Старейшина"
+ baron_feudal_female:0 "Старейшина"
+ barony_feudal:0 "Город"
+ count_feudal_male:0 "Малый царь"
+ count_feudal_female:0 "Малая царица"
+ county_feudal:0 "Город-государство"
+ duke_feudal_male:0 "Царь"
+ duke_feudal_female:0 "Царица"
+ duchy_feudal:0 "Царство"
+ duke_feudal_independent:0 "Царь"
+ duke_feudal_independent_female:0 "Царица"
+ duchy_feudal_independent:0 "Царство"
+ king_feudal_male:0 "Верховный царь"
+ king_feudal_female:0 "Верховная царица"
+ kingdom_feudal:0 "Верховное царство"
+
+ #Default Republic tiers
+ baron_republic_male:0 "Старейшина"
+ baron_republic_female:0 "Старейшина"
+ barony_republic:0 "Community"
+ count_republic_male:0 "Лорд-мэр"
+ count_republic_female:0 "Леди-мэр"
+ county_republic:0 "Великий город"
+ duke_republic_male:0 "Великий мэр"
+ duke_republic_female:0 "Великий мэр"
+ duchy_republic:0 "Республика"
+ king_republic_male:0 "Великий князь"
+ king_republic_female:0 "Великая княгиня"
+ kingdom_republic:0 "Великая республика"
+ emperor_republic_male:0 "Консул"
+ emperor_republic_female:0 "Консул"
+ empire_republic:0 "Федерация"

@@ -1,0 +1,52 @@
+﻿l_russian:
+ #Divergents
+ lazpan_name:0 "Лазпаны" #anatolian, in lesbos/lazpa
+ lazpan_prefix:0 "Лазпанско"
+ lazpan_collective_noun:0 "Лазпанск"
+ ugaritic_name:0 "Угариты" #levantine, in ugarit
+ ugaritic_prefix:0 "Угаритско"
+ ugaritic_collective_noun:0 "Угаритс"
+ magnetes_name:0 "Магнеты" #hellenic, in macedonia
+ magnetes_prefix:0 "Магнетско"
+ magnetes_collective_noun:0 "Магнетск"
+ denyen_name:0 "Данайцы" #hellenic, in southern anatolia
+ denyen_prefix:0 "Данайско"
+ denyen_collective_noun:0 "Данайск"
+ wahenian_name:0 "Вахены" #kemetic, in western oases
+ wahenian_prefix:0 "Вахенско"
+ wahenian_collective_noun:0 "Вахенск"
+ mu_kedi_name:0 "Му-Кеды" #kemetic, along red sea coast
+ mu_kedi_prefix:0 "Му-Кедско"
+ mu_kedi_collective_noun:0 "Му-Кедск"
+ sutean_name:0 "Сутианы" #aramean, along central euphrates valley
+ sutean_prefix:0 "Сутианско"
+ sutean_collective_noun:0 "Сутианск"
+ chaldean_name:0 "Халдеи" #aramean, in southern mesopotamia
+ chaldean_prefix:0 "Халдейско"
+ chaldean_collective_noun:0 "Халдейск"
+ #Hybrids
+ ma_name:0 "Ма" #berber/egyptian hybrid
+ ma_prefix:0 "Ма"
+ ma_collective_noun:0 "Ма"
+ ekwesh_name:0 "Эквеши" #hellenic/kemetic hybrid
+ ekwesh_prefix:0 "Эквешско"
+ ekwesh_collective_noun:0 "Эквешск"
+ peleset_name:0 "Пелесеты" #aegean/anatolian hybrid
+ peleset_prefix:0 "Пелесетско"
+ peleset_collective_noun:0 "Пелесетск"
+ teresh_name:0 "Тереши" #italic/aegean hybrid
+ teresh_prefix:0 "Терешско"
+ teresh_collective_noun:0 "Терешск"
+ tjeker_name:0 "Текеры" #hellenic/cypriot hybrid
+ tjeker_prefix:0 "Текерско"
+ tjeker_collective_noun:0 "Текерск"
+ weshesh_name:0 "Уэшеши" #hellenic/anatolian hybrid
+ weshesh_prefix:0 "Уэшешско"
+ weshesh_collective_noun:0 "Уэшешск"
+ neobabylonian_name:0 "Неовавилоны" #chaldean/babylonian hybrid
+ neobabylonian_prefix:0 "Неовавилонско"
+ neobabylonian_collective_noun:0 "Неовавилонск"
+ neoassyrian_name:0 "Неоассирийцы" #aramean/assyrian hybrid
+ neoassyrian_prefix:0 "Неоассирийско"
+ neoassyrian_collective_noun:0 "Неоассирийск"
+ 

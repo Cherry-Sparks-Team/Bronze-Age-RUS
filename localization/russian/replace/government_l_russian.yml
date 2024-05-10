@@ -1,0 +1,13 @@
+﻿l_english:
+ feudal_government:0 "Urban"
+ feudal_government_adjective:0 "Urban"
+ feudal_government_realm:0 "Urban Realm"
+ feudal_government_vassals_label:0 "Urban [obligations|E] are based on each [vassal|E]'s [feudal_contract|E]"
+ feudal_government_desc:100 "$game_concept_feudal_desc$\n\n#F Urbanism first developed in the fertile crescent of the Near East after farming had revolutionized peoples way of life allowing permanent settlement and the development of bigger and bigger villages and better and better tools. Eventually society had developed writing, pottery, the wheel, husbandry, sailing, advanced constructions, organized religions and much more. By the 2nd and even 3rd millennium BCE urbanism had long been a factor in the Near East and had come far with massive confederations of cities with potentially several tens of thousands of people each. An urban society is generally dominated by a city elite where power is concentrated but is still reliant on the surrounding farming communities that provide [soldiers|E] and [taxes|E] to the state.#!"
+ republic_government:0 "Rural"
+ republic_government_adjective:0 "Rural"
+ republic_government_realm:0 "Rural"
+ republic_government_desc:0 "$game_concept_republic_desc$\n\n#F Villages are ruled by the privileged citizens of the landowning class, among whom one is chosen as mayor. While the mayor has significant influence, they depend on popularity to be re-elected.#!"
+ republic_government_vassals_label:0 "Rural [obligations|E] are the same for all Rural [vassals|E]"
+ republic_government_obligations:1 "Rural [obligations|E]"
+ holy_order_government_desc:0 "The holy warriors of the orders have dedicated their life to fighting infidels and serving their faith. They may hold cities and settlements given to them by pious landholders. The order leader is chosen within the order ranks."

@@ -1,0 +1,75 @@
+﻿l_russian:
+ #Hattian
+ hattian_religion:0 "Хаттиск"
+ hattian_religion_adj:0 "Хаттийское язычество"
+ hattian_religion_desc:0 "Hattian desc"
+ hattian_faith:0 "Хаттиск"
+ hattian_faith_adherent:0 "Хаттиец"
+ hattian_faith_adherent_plural:0 "Хаттийцы"
+ hattian_faith_adj:0 "Хаттийское язычество"
+
+ hattian_high_god_name:0 "Тетешхапи"
+ hattian_high_god_name_2:0 "$hattian_high_god_name$"
+ hattian_high_god_name_possessive:0 "Тетешхапиа"
+ hattian_high_god_name_alternate:0 "Великая Мать"
+ hattian_high_god_name_alternate_possessive:0 "Великой Матери"
+ hattian_devil_name:0 "Хаххима"
+ hattian_devil_name_possessive:0 "Хаххимы"
+ hattian_death_deity_name:0 "Лелвани"
+ hattian_death_deity_name_possessive:0 "Лелвани"
+ hattian_divine_realm:0 "Небеса" #Heaven
+ hattian_divine_realm_2:0 "$hattian_divine_realm$"
+ hattian_divine_realm_3:0 "$hattian_divine_realm$"
+ hattian_positive_afterlife:0 "Подземный мир" #Earth - like in Mesopotamia a euphemism for the Underworld
+ hattian_positive_afterlife_2:0 "$hattian_positive_afterlife$"
+ hattian_positive_afterlife_3:0 "$hattian_positive_afterlife$"
+ hattian_negative_afterlife:0 "Тьма" #Darkness - A more negative name for the Underworld
+ hattian_negative_afterlife_2:0 "$hattian_negative_afterlife$"
+ hattian_negative_afterlife_3:0 "$hattian_negative_afterlife$"
+ hattian_religious_symbol:0 "солнечный диск" #Sun goddess
+ hattian_religious_symbol_2:0 "$hattian_religious_symbol$"
+ hattian_religious_symbol_3:0 "$hattian_religious_symbol$"
+ hattian_religious_text:0 "священные тексты"
+ hattian_religious_text_2:0 "$hattian_religious_text$"
+ hattian_religious_text_3:0 "$hattian_religious_text$"
+ hattian_religious_head:0 "Верховный жрец"
+ hattian_religious_head_title_name:0 "Верховный совет"
+
+ #"Good" gods
+ hattian_good_god_kattahha:0 "Каттаха"
+ hattian_good_god_mezulla:0 "Мезулла"
+ hattian_good_god_hatepuna:0 "Хатепуна"
+ #"Evil" gods
+ hattian_evil_god_istustaya_and_papaya:0 "Истустая и Папайя "
+
+ hattian_creator_god_name:0 "$hattian_high_god_name$"
+ hattian_creator_god_name_possessive:0 "$hattian_high_god_name_possessive$"
+ hattian_health_god_name:0 "$hattian_high_god_name$"
+ hattian_health_god_name_possessive:0 "$hattian_high_god_name_possessive$"
+ hattian_fertility_god_name:0 "Телипину"
+ hattian_fertility_god_name_possessive:0 "Телипины"
+ hattian_wealth_god_name:0 "Хасамели"
+ hattian_wealth_god_name_possessive:0 "Хасамела"
+ hattian_household_god_name:0 "Вурунсему"
+ hattian_household_god_name_possessive:0 "Вурунсемуму"
+ hattian_fate_god_name:0 "Эстан"
+ hattian_fate_god_name_possessive:0 "Эстана"
+ hattian_knowledge_god_name:0 "$hattian_household_god_name$"
+ hattian_knowledge_god_name_possessive:0 "$hattian_household_god_name$"
+ hattian_war_god_name:0 "Вурукатте"
+ hattian_war_god_name_possessive:0 "Вурукаттеты"
+ hattian_trickster_god_name:0 "Инара"
+ hattian_trickster_god_name_possessive:0 "Инары"
+ hattian_night_god_name:0 "Кашху"
+ hattian_night_god_name_possessive:0 "Кашхуы"
+ hattian_water_god_name:0 "Тару"
+ hattian_water_god_name_possessive:0 "Тару"
+ hattian_witch_god_name:0 "Катахзипури"
+ hattian_witch_god_name_possessive:0 "Катахзипуриа"
+ 
+ hattian_sun_god_name:0 "Вурунсему"
+ hattian_sun_god_name_possessive:0 "Вурунсемумы"
+ 
+ d_cult_of_teteshapi:0 "Верховное жречество Тетешхапи"
+ d_cult_of_teteshapi_adj:0 "Тетешхаписк"
+ 

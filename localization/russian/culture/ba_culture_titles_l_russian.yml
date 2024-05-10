@@ -1,0 +1,256 @@
+﻿l_russian:
+
+ #############################################
+#General names:
+ #Default Viceroyalty tiers
+ baron_viceroyalty_male:0 "Губернатор"
+ baron_viceroyalty_female:0 "Губернатор"
+ barony_viceroyalty:0 "Губернаторство"
+ count_viceroyalty_male:0 "Виконт"
+ count_viceroyalty_female:0 "Виконтесса"
+ county_viceroyalty:0 "Провинция"
+ duke_viceroyalty_male:0 "Верховный виконт"
+ duke_viceroyalty_female:0 "Верховная виконтесса"
+ duchy_viceroyalty:0 "Великая провинция"
+ king_viceroyalty_male:0 "Наместник"
+ king_viceroyalty_female:0 "Наместница"
+ kingdom_viceroyalty:0 "Наместничество"
+ emperor_viceroyalty_male:0 "Со-император"
+ emperor_viceroyalty_female:0 "Со-императрица"
+ empire_viceroyalty:0 "Империя"
+ 
+##############################################
+#Culture, Religion specific
+#Sumerian
+ baron_feudal_male_sumerian:100 "Хатсанну"
+ baron_feudal_female_sumerian:100 "Хатсаннунаг"
+ baron_republic_male_sumerian:100 "Мас Таканна" # lit. First Old Man
+ #baron_republic_sumerian:100 "Eturu" #Town
+ barony_feudal_sumerian:100 "Ири" #Stronghold
+ count_feudal_male_sumerian:100 "Энси"
+ count_feudal_female_sumerian:100 "Белети" #Less emphatic version of Nin 
+ county_feudal_sumerian:100 "Ирипат"
+ duke_feudal_male_sumerian:100 "Люгал"
+ duke_feudal_female_sumerian:100 "Нин"
+ duchy_feudal_sumerian:100 "Нигин"
+ duke_feudal_independent_sumerian:100 "Люгал"
+ duke_feudal_independent_female_sumerian:100 "Гасан" #Less emphatic version of Sarratum
+ duchy_feudal_independent_sumerian:100 "Нигин"
+ king_feudal_male_sumerian:100 "Энгал"
+ king_feudal_female_sumerian:100 "Сарратум"
+ kingdom_feudal_sumerian:100 "Мада"
+ emperor_feudal_male_sumerian:0 "Энгал Энана" # lit. The Great Lord of Lords
+ emperor_feudal_female_sumerian:0 "Укуну Шупаршунгала" # lit. Mistress of the Dominion
+ empire_feudal_sumerian:0 "Шупаршунгал" # lit. Possession but we can translate it as the Dominion
+ kingdom_viceroyalty_male_sumerian:0 "Укур Энгала" # lit. Sword of the Great Lord
+
+#Elamite
+ baron_feudal_male_elamite_group:100 "Ширур" #Baron (Akkadian loanword)
+ baron_feudal_female_elamite_group:100 "Бемти" #Noblewoman (Akkadian loanword)
+ barony_feudal_elamite_group:100 "Хал" #Town
+ barony_theocracy_elamite_group:100 "Сиан" #Temple
+ count_feudal_male_elamite_group:100 "Темтир" #Lord
+ count_feudal_female_elamite_group:100 "Зинни" #Lady
+ county_feudal_elamite_group:100 "Хухун" #Fortress (Old Elamite)
+ duke_feudal_male_elamite_group:100 "Temti-Rišar" #Great Lord
+ duke_feudal_female_elamite_group:100 "Zinni-Rišah" #Great Lady
+ duchy_feudal_elamite_group:100 "Piratame" #Fortress-City,Realm
+ duke_feudal_independent_elamite_group:100 "Temti-Rišar"
+ duke_feudal_independent_female_elamite_group:100 "Zinni-Rišah"
+ duchy_feudal_independent_elamite_group:100 "Piratame"
+ king_feudal_male_elamite_group:100 "Sunkir" #King
+ king_feudal_female_elamite_group:100 "Ereši" #Queen (Akkadian loanword) 
+ kingdom_feudal_elamite_group:100 "Sunkime" #Kingdom
+ emperor_feudal_male_elamite_group:0 "Sunki-Šairrar" #Mightiest King. pg.98
+ emperor_feudal_female_elamite_group:0 "Ereši-Šairrah"
+ empire_feudal_elamite_group:0 "Sunkime-Rišar" #Great Kingdom
+
+#Mycenean
+ baron_feudal_male_mycenaean:100 "Koreter"
+ baron_feudal_female_mycenaean:100 "Koreter"
+ barony_feudal_mycenaean:100 "Wastu"
+ count_feudal_male_mycenaean:100 "Damokoros"
+ count_feudal_female_mycenaean:100 "Damokoros"
+ county_feudal_mycenaean:100 "Damos"
+ duke_feudal_male_mycenaean:100 "Lawagetas"
+ duke_feudal_female_mycenaean:100 "Lawagetas"
+ duchy_feudal_mycenaean:100 "Ptolin"
+ duke_feudal_independent_mycenaean:100 "Lawagetas"
+ duke_feudal_independent_female_mycenaean:100 "Lawagetas"
+ duchy_feudal_independent_mycenaean:100 "Ptolin"
+ king_feudal_male_mycenaean:100 "Gwasileus"
+ king_feudal_female_mycenaean:100 "Gwasileia"
+ kingdom_feudal_mycenaean:100 "Gwasileion"
+ emperor_feudal_male_mycenaean:0 "Wanax"
+ emperor_feudal_female_mycenaean:0 "Wanassa"
+ empire_feudal_mycenaean:0 "Wanaktoron" #Might be changed to Temenos based on John Chadwick's The Mycenaean World.
+ 
+#Aegean #Spent a good few hours pouring through Beekes' Pre-Greek: Phonology, Morphology, Lexicon. All titles found here are constructed via the methods and word list provided there. A few are cognate with the Mycenaean titles.
+ #I'm keeping all female titles the same as I don't fully undertsand how the language is gendered or how the conversion works yet. I'll probably comeback to it after a few read throughs.
+ 
+ baron_feudal_male_aegean_group:100 "Prukyan" #High official. from 'Prytanis'
+ baron_feudal_female_aegean_group:100 "Numkwa" #Lady. from 'Nymphe'
+ baron_theocracy_male_aegean_group:100 "Akya" #Priest. from 'Essen'
+ count_feudal_male_aegean_group:100 "Arwu" #Lord. from 'Heros'
+ count_feudal_female_aegean_group:100 "Numkwa" 
+ duke_feudal_male_aegean_group:100 "Kwasyilawu" #Petty King. from 'Basileus'. I'm still unsure if the form Kwasyil might be better to run with.
+ duke_feudal_female_aegean_group:100 "Numkwa"
+ king_feudal_male_aegean_group:100 "Wanatyk" #Ruler. from 'Anax'
+ king_feudal_female_aegean_group:100 "Apya-Numkwa" #Great Lady. from 'Aipys Nymphe'
+ emperor_feudal_male_aegean_group:0 "Turanya" #Tyrant. from 'Tyrannos'
+ emperor_feudal_female_aegean_group:100 "Apya-Numkwa"
+ 
+#Proto-Hellenic
+ 
+ baron_feudal_male_proto_hellenic:100 "Korranos" #Proto-Greek for Koiranos, 'leader'
+ baron_feudal_female_proto_hellenic:100 "Korranos" #Proto-Greek for Koiranos, 'leader'
+ barony_feudal_proto_hellenic:100 "Wastu" 
+ count_feudal_male_proto_hellenic:100 "Arkhamos" #Proto-Greek for Homeric Orkhamos, 'chieftan'. Unsure about initial 'h-' so I left it out.
+ count_feudal_female_proto_hellenic:100 "Arkhamos"
+ county_feudal_proto_hellenic:100 "Phuyolon" #Proto-Greek for Phylon, 'tribe'. Intervocalic 'y-' is based on Proto-Greek verb. 
+ duke_feudal_male_proto_hellenic:100 "Tagahos"
+ duke_feudal_female_proto_hellenic:100 "Tagahos"
+ duchy_feudal_proto_hellenic:100 "Ptolis"
+ duke_feudal_independent_proto_hellenic:100 "Tagahos"
+ duke_feudal_independent_female_proto_hellenic:100 "Tagahos"
+ duchy_feudal_independent_proto_hellenic:100 "Ptolis"
+ king_feudal_independent_male_proto_hellenic:100 "Gwatileus"
+ king_feudal_independent_female_proto_hellenic:100 "Gwatileia"
+ king_feudal_male_proto_hellenic:100 "Gwatileus"
+ king_feudal_female_proto_hellenic:100 "Gwatileia"
+ kingdom_feudal_proto_hellenic:100 "Gwatileion"
+ emperor_feudal_male_proto_hellenic:0 "Wanax"
+ emperor_feudal_female_proto_hellenic:0 "Wanatia"
+ empire_feudal_proto_hellenic:0 "Wanaktaron"
+
+#Hurrian
+ baron_feudal_male_hurrian:100 "Amummikkonni" # lit. Administrator.
+ baron_feudal_female_hurrian:100 "Firašti" # lit. Noblewife.
+ barony_feudal_hurrian:100 "Paihe"
+ count_feudal_male_hurrian:100 "Firade" #Nobleman. Maryannu is from Indic substrate so I don't think it's period appropriate, even if it's a cool word.
+ count_feudal_female_hurrian:100 "Firašti" 
+ county_feudal_hurrian:100 "Arde"
+ duke_feudal_male_hurrian:100 "Everni" 
+ duke_feudal_female_hurrian:100 "Allai" # lit. Mistress
+ duchy_feudal_hurrian:100 "Ominni"
+ duke_feudal_independent_hurrian:100 "Everni"
+ duke_feudal_independent_female_hurrian:100 "Allai"
+ duchy_feudal_independent_hurrian:100 "Ominni"
+ king_feudal_male_hurrian:100 "Šarri" 
+ king_feudal_female_hurrian:100 "Šavošallai" # lit. Great Mistress
+ kingdom_feudal_hurrian:100 "Šarrarde"
+ emperor_feudal_male_hurrian:0 "Emanamhe-Šarri" # lit. Tenfold King. Common Hurrian expression to imply elevation and greatness.
+ emperor_feudal_female_hurrian:0 "Ennohe-Elli" # lit. Sister of the Gods. Adopted from the Hittite semi-theocratic kingship.
+ empire_feudal_hurrian:0 "Šavošominni" # lit. Great land.
+
+#Egyptian
+ #bak = city, ateb = region, nut = all those, khar = village, quarter of a city
+ baron_feudal_male_egyptian:100 "Mer"
+ baron_feudal_female_egyptian:100 "Hemet-Mer"
+ barony_feudal_egyptian:100 "Bak" #maket
+ barony_republic_egyptian:100 "Khar" #maket
+ count_feudal_male_egyptian:100 "Tep"
+ count_feudal_female_egyptian:100 "Hemet-Tep"
+ county_feudal_egyptian:100 "Ateb"
+ duke_feudal_male_egyptian:100 "Heri-Tep" #Nomarch
+ duke_feudal_female_egyptian:100 "Hemet-Heri-Tep"
+ duchy_feudal_egyptian:100 "Khast" #Foreign Land, Nome/Sepat is used just for the actual nomes
+ duke_feudal_independent_egyptian:100 "Nesut" #King
+ duke_feudal_independent_female_egyptian:100 "Hemet-Nesut" #Royal Wife, taken from Great Royal Wife
+ #duchy_feudal_independent_egyptian:100 "Kingdom"
+ king_feudal_male_egyptian:100 "Nesut-Weret" #Chief King
+ king_feudal_female_egyptian:100 "Hemet-Nesut-Weret" #Great Royal Wife
+ king_feudal_independent_male_egyptian:100 "Nesut-Weret" #Chief King
+ king_feudal_independent_female_egyptian:100 "Hemet-Nesut-Weret" #Great Royal Wife
+ kingdom_feudal_egyptian:100 "Khast-Nesut"
+ emperor_feudal_male_egyptian:0 "Pharaoh" #Per-aa
+ emperor_feudal_female_egyptian:0 "Hemet-Nesut-Weret"
+ empire_feudal_egyptian:0 "Empire"
+ king_egyptian_dynastic_male:0 "Pharaoh" #Per-aa
+ king_egyptian_dynastic_female:0 "Hemet-Nesut-Weret"
+
+#Minoan
+ baron_feudal_male_minoan:100 "Elder"
+ baron_feudal_female_minoan:100 "Matriarch"
+ #barony_feudal_minoan:100 "Bak"
+ #barony_republic_minoan:100 "Khar" #maket
+ count_feudal_male_minoan:100 "Petty King"
+ count_feudal_female_minoan:100 "Priestess"
+ #county_feudal_minoan:100 "Ateb"
+ duke_feudal_male_minoan:100 "King" #
+ duke_feudal_female_minoan:100 "High Priestess"
+ #duchy_feudal_minoan:100 "Khast"
+ duke_feudal_independent_minoan:100 "King"
+ duke_feudal_independent_female_minoan:100 "High Priestess" 
+ #duchy_feudal_independent_minoan:100 "Kingdom"
+ king_feudal_male_minoan:100 "High King" #Chief King
+ king_feudal_female_minoan:100 "Archpriestess" #Great Royal Wife
+ #kingdom_feudal_minoan:100 "Khast-Nesut"
+ emperor_feudal_male_minoan:0 "Emperor" #Per-aa
+ emperor_feudal_female_minoan:0 "Supreme Priestess"
+ empire_feudal_minoan:0 "Empire"
+
+#Sumerian Religion
+ baron_theocracy_male_mesopotamian_religion_group:0 "En"
+ baron_theocracy_female_mesopotamian_religion_group:0 "Nin"
+ #barony_theocracy_mesopotamian_religion_group:0 "Temple"
+ count_theocracy_male_mesopotamian_religion_group:0 "En"
+ count_theocracy_female_mesopotamian_religion_group:0 "Nin"
+ #county_theocracy_mesopotamian_religion_group:0 "Great Temple"
+ #duke_theocracy_male_mesopotamian_religion_group:0 "Archpriest"
+ #duke_theocracy_female_mesopotamian_religion_group:0 "Archpriestess"
+ #duchy_theocracy_mesopotamian_religion_group:0 "Theocracy"
+ #king_theocracy_male_mesopotamian_religion_group:0 "Grand Priest"
+ #king_theocracy_female_mesopotamian_religion_group:0 "Grand Priestess"
+ #kingdom_theocracy_mesopotamian_religion_group:0 "Grand Theocracy"
+ #emperor_theocracy_male_mesopotamian_religion_group:0 "Divine Emperor"
+ #emperor_theocracy_female_mesopotamian_religion_group:0 "Divine Empress"
+ #empire_theocracy_mesopotamian_religion_group:0 "Holy Empire"
+ 
+#Akkadian #With special thanks to John7755 from AH.com and Dr. Chris Bishop of the ANU.
+ barony_republic_akkadian_group:0 "Alum"
+ barony_feudal_akkadian_group:0 "Birtum"
+ barony_theocracy_akkadian_group:0 "Ziqquratu"
+ baron_feudal_male_akkadian_group:100 "Širu" #Baron 
+ baron_feudal_female_akkadian_group:100 "Bemti" #Noblewoman 
+ baron_theocracy_male_akkadian_group:100 "Sangu"
+ baron_theocracy_female_akkadian_group:100 "Sagittu"
+ county_feudal_akkadian_group:100 "Seru" #Country
+ count_feudal_male_akkadian_group:100 "Mar Damqi" #Elegant Sir
+ count_feudal_female_akkadian_group:100 "Beltanu" #Lady of High Rank
+ duchy_feudal_akkadian_group:100 "Takhumu" #Territory, domain
+ duke_feudal_independent_male_akkadian_group:100 "Rubu" #Petty King
+ duke_feudal_independent_female_akkadian_group:100 "Rubutu" #Petty Queen
+ duke_feudal_male_akkadian_group:100 "Šaknum" #Governor
+ duke_feudal_female_akkadian_group:100 "Šu-itu" #Governess, mistress
+ kingdom_feudal_akkadian_group:100 "Belutum" #Domination, rule, ownership
+ king_feudal_male_akkadian_group:100 "Šakkunaku" #Viceroy
+ king_feudal_female_akkadian_group:100 "Erešu" #Viceroyess, subject queen
+ king_feudal_independent_male_akkadian_group:100 "Šarru" #King
+ king_feudal_independent_female_akkadian_group:100 "Issi-Ekalli" #Queen
+ empire_feudal_akkadian_group:100 "Mat" #(Great) Land
+ emperor_feudal_male_akkadian_group:100 "Šarru-Rabiu" #High King, King of Kings
+ emperor_feudal_female_akkadian_group:100 "Segallu" #High Queen
+ emperor_feudal_male_e_assyria:100 "Šarru-Kiššati" #King of the Universe
+ 
+#Hittite #I've decided to not use s-caron (š) or h-breve (ḫ) as they confuse laypersons in pronounciations of Hittite (the former is a straightforward /s/ amd the latter likely a /kh/), being bad romanizations based on the cuneiform rather than language. For example, Iskhas is rendered as Išḫaš. But this is a personal choice and one based on recommendations from proffesors in the course of my study, thus if anyone else objects my decisions I can reimplement the diacritics. 
+ #Other diacritics such as i-undercircumflex (i̭) and u-undercircumflex (ṷ) are represented as /y/ and /w/ for the sake of simplicity, even though Hittite possessed a separate (w) phoneme. The ability for thes engine to support these characters also appears. 
+ baron_feudal_male_hittite:0 "Tapariyallis" # lit. Commander. Maybe use 'Gurtanwannis': Keeper of the Citadel
+ baron_feudal_female_hittite:0 "Tapariyassara"
+ barony_feudal_hittite:0 "Gurtan" # lit. Town, citadel.
+ baron_theocracy_male_hittite:0 "Karimnalas" # lit. Sanctuary-functionary. Interpret as 'priest'
+ baron_theocracy_female_hittite:0 "Suppiessara" # lit. Sanctuary-functionary. Interpret as 'priest'
+ barony_theocracy_hittite:0 "Karimmin" # lit. Chapel, sanctuary.
+ count_feudal_male_hittite:0 "Iskhas" # lit. Lord
+ count_feudal_female_hittite:0 "Iskhassara"
+ county_feudal_hittite:0 "Gimran" # lit. Open tract, countryside of.
+ duke_feudal_male_hittite:0 "Sallais Iskhas" # lit. Great Lord
+ duke_feudal_female_hittite:0 "Sallaia Iskhassara"
+ duchy_feudal_hittite:0 "Utnin" # lit. Land, Country. Might use 'Utne' alternative as it's less bureaucratic and more abstract.
+ king_feudal_male_hittite:0 "Hantawadis"
+ king_feudal_female_hittite:0 "Hantawassara"
+ kingdom_feudal_hittite:0 "Hantawatahitan" # lit. Kingdom
+ emperor_feudal_female_hittite:0 "Hassussara"
+ emperor_feudal_male_hittite:0 "Hassus"
+ empire_feudal_hittite:0 "Dassuwatar" # lit. Power. Simpilar concept to Latin imperium and implies potentate.
+ emperor_theocracy_female_hittite:0 "Tawananna" #This is a mechanic I think the Hittites really need in the long run. Queens like Puduhepa represent the theocratic aspect of Hittite kingship and wielded immense power that should be akin to atleast an ecumenical patriarch in the base game.
